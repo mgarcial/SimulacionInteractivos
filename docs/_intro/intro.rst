@@ -110,7 +110,7 @@ de trabajo autónomo.
 Bibliografía
 -------------
 
-* `Texto guía <https://natureofcodeunity.com/>`__
+`Texto guía <https://natureofcodeunity.com/>`__
 
 Evidencias de evaluación
 -------------------------
@@ -119,7 +119,7 @@ Cada semana deberás entregar tu trabajo en el respositorio de github asignado.
 En cada unidad te contaré qué debes entregar.
 
 Código de honor
-^^^^^^^^^^^^^^^^
+-----------------
 
 Para realizar el trabajo de cada unidad se espera que hagas lo siguiente:
 
