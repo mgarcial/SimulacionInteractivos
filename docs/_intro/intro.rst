@@ -50,7 +50,7 @@ Criterios de competencia
 Carta Descriptiva
 -------------------
 
-En `este <https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fs3.us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa32c1668-54d1-4330-9b47-955f6d9e2221%2F6_sem_V_A_E_Simul_para_sist_interac.xlsm%3FX-Amz-Algorithm%3DAWS4-HMAC-SHA256%26X-Amz-Content-Sha256%3DUNSIGNED-PAYLOAD%26X-Amz-Credential%3DAKIAT73L2G45EIPT3X45%252F20221219%252Fus-west-2%252Fs3%252Faws4_request%26X-Amz-Date%3D20221219T230311Z%26X-Amz-Expires%3D86400%26X-Amz-Signature%3D0e9d952f292d6585b99a6bd4d57732383619bc9bf68cc937d2aa12d7a848753b%26X-Amz-SignedHeaders%3Dhost%26response-content-disposition%3Dfilename%253D%25226_sem_V_A_E_Simul_para_sist_interac.xlsm%2522%26x-id%3DGetObject&wdOrigin=BROWSELINK>`__ enlace puedes 
+En `este <https://github.com/juanferfranco/SimulacionInteractivos/raw/main/docs/_static/carta2022-20.xlsm>`__ enlace puedes 
 consultar la carta descriptiva del curso.
 
 Metodología del curso
