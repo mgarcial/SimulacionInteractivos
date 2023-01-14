@@ -1,20 +1,15 @@
 Introducción al curso
 =======================
 
-¿Para qué sirve este curso?
------------------------------
-
-
 Descripción del curso
 ----------------------
 
-El objeto de este curso es la construcción de aplicaciones interactivas 
-que utilicen y resuelvan modelos matemáticos y físicos para la solución de problemas 
+El objeto de este curso es la **construcción de aplicaciones interactivas** 
+que utilicen y resuelvan **modelos matemáticos y físicos** para la **solución de problemas** 
 en el entretenimiento digital.
 
-
-Propósito del curso
----------------------
+¿Para qué sirve este curso?
+-----------------------------
 
 El curso busca que el estudiante aprenda la aplicación de los modelos matemáticos 
 y físicos para la solución de problemas del entretenimiento digital en la construcción 
@@ -23,11 +18,11 @@ de aplicaciones interactivas.
 Competencias a las que aporta el curso
 ---------------------------------------
 
-Construye aplicaciones que posibilitan la interacción entre personas, mediada por 
+**Construye aplicaciones** que posibilitan la interacción entre personas, mediada por 
 tecnologías digitales, utilizando lenguajes y metodologías apropiadas según el contexto.
 
-Materializa sistemas intermediados por el entretenimiento digital para resolver problemas 
-de acuerdo con requerimientos condicionados por el contexto
+**Materializa sistemas intermediados** por el entretenimiento digital para 
+**resolver problemas** de acuerdo con requerimientos condicionados por el contexto
 
 Criterios de competencia
 ---------------------------
@@ -46,9 +41,11 @@ Criterios de competencia
 ¿Cómo puedes evidenciar lo aprendido en este curso?
 -----------------------------------------------------
 
-Al finalizar el curso, dado o propuesto un PROBLEMA DE INTERACCIÓN, se espera que seas capaz 
-de CONSTRUIR Y PROBAR una APLICACIÓN INTERACTIVA que haga uso de la matemática para resolver 
-o aportar a la solución del problema.
+.. warning:: EVIDENCIA DEL APRENDIZAJE 
+
+  Al finalizar el curso, dado o propuesto un PROBLEMA DE INTERACCIÓN, se espera que seas capaz 
+  de CONSTRUIR Y PROBAR una APLICACIÓN INTERACTIVA que haga uso de la matemática y física 
+  para resolver o aportar a la solución del problema.
 
 Carta Descriptiva
 -------------------
