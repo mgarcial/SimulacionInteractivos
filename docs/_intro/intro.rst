@@ -24,17 +24,17 @@ tecnologías digitales, utilizando lenguajes y metodologías apropiadas según e
 **Materializa sistemas intermediados** por el entretenimiento digital para 
 **resolver problemas** de acuerdo con requerimientos condicionados por el contexto
 
-Criterios de competencia
+Resultados de aprendizaje
 ---------------------------
 
-* Aplico los conceptos necesarios para el correcto diseño, implementación, funcionamiento y 
+* RA1: aplico los conceptos necesarios para el correcto diseño, implementación, funcionamiento y 
   diagnóstico del software en la producción de sistemas de entretenimiento digital 
   utilizando los procedimientos y herramientas adecuadas. ``NIVEL AUTÓNOMO``.
-* Diseño, aplico y gestiono pruebas para verificar el correcto funcionamiento de las partes 
+* RA2: diseño, aplico y gestiono pruebas para verificar el correcto funcionamiento de las partes 
   y del todo de un software de manera ordenada y eficiente. ``NIVEL AUTÓNOMO``.
-* Aplico los conocimientos de matemáticas, diseño, ciencias e ingeniería en mi ejercicio profesional.
+* RA3: aplico los conocimientos de matemáticas, diseño, ciencias e ingeniería en mi ejercicio profesional.
   ``NIVEL RESOLUTIVO``.
-* Integro contenidos digitales para la elaboración de sistemas interactivos mediante herramientas, 
+* RA4: integro contenidos digitales para la elaboración de sistemas interactivos mediante herramientas, 
   métodos y lenguajes de programación de manera creativa, eficiente, efectiva y ordenada. 
   ``NIVEL AUTÓNOMO``.
 
@@ -57,52 +57,46 @@ Metodología del curso
 -----------------------------------
 
 La modalidad del curso es presencial. Se trabaja una metodología de ``aula invertida``. 
-En las clases presenciales, los estudiantes trabajan de manera individual o en grupo para 
+En las clases presenciales, trabajarás de manera individual o en grupo para 
 resolver problemas. En el tiempo autónomo se proponen las lecturas y el material necesario 
 para preparar la sesión presencial. ES FUNDAMENTAL llegar preparado a la sesión 
-presencial de lo contrario no se aprovechará al máxima la asoría y acompañamiento que brindará 
-el docente.
+presencial de lo contrario no se aprovechará al máxima la asoría y acompañamiento que 
+brindará el docente.
 
-Estructura del curso
-----------------------
+.. warning:: ¿Por qué este curso no es como una clase tradicional?
 
-El curso está divido en 12 unidades.
+  Este curso está diseñado siguiendo las recomendaciones del modelo pedagógico de la 
+  UPB que puedes encontrar `aquí <https://www.upb.edu.co/es/documentos/doc-modelopedagogicoesn-lau-1464098892245.pdf>`__.
+  La idea es que tu aprendizaje sea ACTIVO y no centrado en la enseñanza, entonces 
+  aprenderás haciendo. El papel del docente es MEDIADOR no de transmisor del conocimiento.
 
-#. Unidad 1: introducción.
-#. Unidad 2: vectores.
-#. Unidad 3: Fuerzas.
-#. Unidad 4: oscilaciones.
-#. Unidad 5: sistemas de partículas.
-#. Unidad 6: componentes físicos.
-#. Unidad 7: agentes autónomos.
-#. Unidad 8: autómatas celulares.
-#. Unidad 9: fractales.
-#. Unidad 10: algoritmos evolutivos.
-#. Unidad 11: redes neuronales
-#. Unidad 12: trabajo final
+Proyecto docente
+-----------------
 
-Cronograma
-------------
-
-* Las unidades 1 a 11 se realizarán en 11 semanas. Una semana por 
-  unidad con una dedicación total de 6 horas por unidad.
-* La unidad 12 se realizará en 4 semanas con una dedicación total 
-  de 24 horas.
-* En la semana 16 del curso realizaremos la sesión de presentación 
-  de los trabajos finales y la evaluación del curso.
+En `este <https://github.com/juanferfranco/SimulacionInteractivos/raw/main/docs/_static/FormatoPlaneacionSimulacion2023-10.xlsx>`__ 
+enlace puede descargar el proyecto docente de este curso. 
 
 Evaluación
 -----------
 
-* Unidades 2 a 11 (10 entregas): 7% cada una.
-* Unidad 12: 30%
+El detalle de la evaluación lo puedes consultar en el proyecto docente del curso.
+
+En general, los ejercicios tendrán un peso del 70% en la nota final y los pasos 
+del proyecto de curso 30%. Ten presente que en cada unidad se entra un paso y 
+su aporte porcentual será del 5%. Al finalizar el curso habrás entregado 6 pasos 
+y completarás el 30%.
 
 Dedicación
 -----------
 
-Este curso es de 2 créditos y se desarrolla en 16 semanas. Cada semana deberás 
-dedicar 6 horas en total. 3 horas 20 minutos de trabajo presencial y 2 hora 40 minutos 
-de trabajo autónomo.
+Este curso es de 2 créditos y se desarrolla en 16 semanas de clases y una semana 
+más de entrega del trabajo final. Cada semana deberás dedicar 6 horas en total como 
+mínimo.
+
+.. warning:: EL TRABAJO AUTÓNOMO ES CRÍSTICO
+
+  El trabajo autónomo en este curso es crítico para que desarrolles las lecturas 
+  y hagas el trabajo de aula invertida para aprovechar al máxima el tiempo de clase.
 
 Bibliografía
 -------------
@@ -112,8 +106,8 @@ Bibliografía
 Evidencias de evaluación
 -------------------------
 
-Cada semana deberás entregar tu trabajo en el respositorio de github asignado. 
-En cada unidad te contaré qué debes entregar.
+Observa el proyecto docente para que puedas ver cuándo debes entregar cada 
+evaluación. Las evaluaciones se entregarán en el classroom de github del curso.
 
 Código de honor
 -----------------
