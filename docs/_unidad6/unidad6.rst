@@ -1,4 +1,4 @@
-Unidad 4. Oscilaciones
+Unidad 6. Componentes físicos
 =======================================
 
 Texto guía

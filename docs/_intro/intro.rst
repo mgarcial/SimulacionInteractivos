@@ -124,3 +124,9 @@ Para realizar el trabajo de cada unidad se espera que hagas lo siguiente:
   experimentes, crea hipótesis, experimenta de nuevo, observa y concluye.
 * NO OLVIDES, este curso se trata de PENSAR y experimentar NO de
   BUSCAR soluciones en Internet.
+
+¿Qué herramientas necesitas?
+-------------------------------
+
+Puedes usar cualquier computador en el que puedas correr Unity versión LTS y 
+un entorno de desarrollo como Visual Studio o Rider.
