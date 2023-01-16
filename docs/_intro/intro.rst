@@ -41,11 +41,55 @@ Resultados de aprendizaje
 ¿Cómo puedes evidenciar lo aprendido en este curso?
 -----------------------------------------------------
 
-.. warning:: EVIDENCIA DEL APRENDIZAJE 
+.. warning:: EVIDENCIAS DEL APRENDIZAJE 
 
-  Al finalizar el curso, dado o propuesto un PROBLEMA DE INTERACCIÓN, se espera que seas capaz 
-  de CONSTRUIR Y PROBAR una APLICACIÓN INTERACTIVA que haga uso de la matemática y física 
-  para resolver o aportar a la solución del problema.
+  En cada unidad vas a realizar unos ejercicios y una parte del proyecto de curso donde 
+  podrás evidenciar los 4 resultados de aprendizaje. A medida que avances en cada 
+  unidad los problemas aumentarán en complejidad porque irán incluyendo los 
+  conocimientos de la unidades anteriores.
+
+* RA1:
+* RA2:
+* RA3:
+* RA4
+
+
+¿Cómo se entrega un ejercicio?
+--------------------------------
+
+Cuando se den TODAS las condiciones siguientes, los ejercicios 
+se considerarán entregados y se subirá la nota de 5 para esos 
+ejercicios.
+
+* Incluye en este documento una sección donde expliques cómo solucionaste el ejercicio. 
+  Debes mencionar en dónde y cómo aplicaste los conceptos matemáticos y/o físicos 
+  para resolver el problema.
+* Incluye el enlace a un video público o no listado en youtube donde mostrarás 
+  funcionando el ejercicio.
+* El paquete de ejercicios debe ser sustentado en las sesiones de clase y debes recibir 
+  el aval del profesor como entregados (verifica que el profe te suba inmediatamente la nota al sistema).
+
+.. warning:: IMPORTANTE
+
+  NO HAY ENTREGAS PARCIALES DE EJERCICIOS 
+
+*
+
+¿Cómo se entrega una parte del proyecto de curso?
+---------------------------------------------------
+
+Cuando se den TODAS las condiciones siguientes, la parte del proyecto 
+de curso se considerará entregada y se subirá una nota de 5 al sistema.
+
+.. warning:: IMPORTANTE
+
+  La parte del proyecto de curso correspondiente a la unidad SOLO se 
+  recibe completa, no parcialmente.
+
+
+Política de plazos y tiempos
+-----------------------------
+
 
 Carta Descriptiva
 -------------------
