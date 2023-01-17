@@ -9,10 +9,11 @@ Créditos y horas totales del curso: 2 créditos - 96 horas totales
 
       
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: SECCIONES
 
    ¿De qué se trata este curso? <_intro/intro>
+   Motivación <_intro/motivacion>
    Unidad 1: Introducción <_unidad1/unidad1>
    Unidad 2: Vectores <_unidad2/unidad2>
    Unidad 3: Fuerzas <_unidad3/unidad3>

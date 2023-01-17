@@ -195,3 +195,21 @@ Para realizar el trabajo de cada unidad se espera que hagas lo siguiente:
 Puedes usar cualquier computador en el que puedas correr Unity versión LTS y 
 un entorno de desarrollo como Visual Studio o Rider.
 
+
+¿En dónde entregarás las evaluaciones del curso?
+-------------------------------------------------
+
+Para entregar las evaluaciones debes:
+
+#. Conformaremos 6 equipos de trabajo de 4 personas y un equipo de 3. Esto 
+   lo haremos juntos para coordinarnos. Espera las indicaciones del profesor.
+#. Uno de los miembros del equipo creará un equipo de trabajo en Github classroom, 
+   equipo al cual se unirán los demás compañeros.
+#. Acepta este `assigment <https://classroom.github.com/a/uCp9L7zY>`__ asociado a todas 
+   las entregas del curso. 
+
+¿Necesitas repasar los fundamentos de Git y Github?
+----------------------------------------------------
+
+Te dejo una tarea `aquí <https://classroom.github.com/a/ytKG44IT>`__ para que repases 
+si lo deseas.

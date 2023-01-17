@@ -6,8 +6,16 @@ Texto guía
 
 `Aquí <https://natureofcodeunity.com/introduction.html>`__ encontrarás el material de la unidad.
 
-Repositorio unidad 1
+
+.. warning:: OPCIONAL
+
+    Te voy a dejar ir dejando recursos interesantes que pueden interesarte  
+    una vez termines el curso o si quieres de una vez.
+
+Recursos interesantes
 ----------------------
 
-`Aquí <https://natureofcodeunity.com/introduction.html>`__ debes subir las evidencias 
-de esta unidad.
+* `Videos 1 al 9 <https://youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM>`__ 
+  del curso the nature of code 2.
+
+

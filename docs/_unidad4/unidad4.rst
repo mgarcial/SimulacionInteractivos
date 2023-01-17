@@ -4,24 +4,15 @@ Unidad 4. Oscilaciones
 Texto guía
 --------------
 
-`Aquí <https://natureofcodeunity.com/introduction.html>`__ encontrarás el material de la unidad.
+`Aquí <https://natureofcodeunity.com/chapterthree.html>`__ encontrarás el material de la unidad.
 
-Repositorio unidad 1
+.. warning:: OPCIONAL
+
+    Te voy a dejar ir dejando recursos interesantes que pueden interesarte  
+    una vez termines el curso o si quieres de una vez.
+
+Recursos interesantes
 ----------------------
 
-`Aquí <https://natureofcodeunity.com/introduction.html>`__ debes subir las evidencias 
-de esta unidad.
-
-¿Cómo debes evidenciar tus resultados de aprendizaje?
--------------------------------------------------------
-
-* RA1: aplico los conceptos necesarios para el correcto diseño, implementación, funcionamiento y 
-  diagnóstico del software en la producción de sistemas de entretenimiento digital 
-  utilizando los procedimientos y herramientas adecuadas. ``NIVEL AUTÓNOMO``.
-* RA2: diseño, aplico y gestiono pruebas para verificar el correcto funcionamiento de las partes 
-  y del todo de un software de manera ordenada y eficiente. ``NIVEL AUTÓNOMO``.
-* RA3: aplico los conocimientos de matemáticas, diseño, ciencias e ingeniería en mi ejercicio profesional.
-  ``NIVEL RESOLUTIVO``.
-* RA4: integro contenidos digitales para la elaboración de sistemas interactivos mediante herramientas, 
-  métodos y lenguajes de programación de manera creativa, eficiente, efectiva y ordenada. 
-  ``NIVEL AUTÓNOMO``.
+* `Videos 23 al 31 <https://youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM>`__ 
+  del curso the nature of code 2.
