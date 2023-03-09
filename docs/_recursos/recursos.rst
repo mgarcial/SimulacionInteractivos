@@ -8,3 +8,4 @@ Generación procedural:
 * t3ssel8r `Giving Personality to Procedural Animations using Math <https://youtu.be/KPoeNZZ6H4s>`__.
 * Codeer `Introduction To My Weird Shooter Game - Devlog 0 <https://youtu.be/NoJXn-Fh6CU>`__.
 * Codeer `Unity procedural animation tutorial (10 steps) <https://youtu.be/e6Gjhr1IP6w>`__.
+* Unity `Creating a boss with procedural animation | Prototype Series <https://youtube.com/playlist?list=PLX2vGYjWbI0SwlTX_RLSD0JmzUeS0f1OK>`__.
