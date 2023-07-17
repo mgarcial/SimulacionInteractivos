@@ -4,47 +4,53 @@ Introducción al curso
 Descripción del curso
 ----------------------
 
-El objeto de este curso es la **construcción de aplicaciones interactivas** 
-que utilicen y resuelvan **modelos matemáticos y físicos** para la **solución de problemas** 
-en el entretenimiento digital.
+El objetivo de este curso es aportar al desarrollo de las competencias para la **construcción 
+de aplicaciones interactivas** que integren contenidos digitales utilizando 
+**conceptos de matemática y física** para la solución de problemas de entretenimiento 
+digital. Los conceptos que se explorarán en el curso son los comportamientos 
+aleatorios, vectores, fuerzas, oscilaciones, sistemas de partículas, componentes físicos y 
+agentes autónomos.
 
 ¿Para qué sirve este curso?
 -----------------------------
 
-El curso busca que el estudiante aprenda la aplicación de los modelos matemáticos 
-y físicos para la solución de problemas del entretenimiento digital en la construcción 
-de aplicaciones interactivas. 
+Se espera que al finalizar el curso el estudiante sea capaz de construir aplicaciones 
+interactivas que integren contenidos digitales seleccionado, de manera argumentada 
+(nivel autónomo), conceptos de matemáticas y física apropiados según los requisitos del 
+problema a solucionar. 
 
-Competencias a las que aporta el curso
+Competencia a las que aporta el curso
 ---------------------------------------
 
-**Construye aplicaciones** que posibilitan la interacción entre personas, mediada por 
-tecnologías digitales, utilizando lenguajes y metodologías apropiadas según el contexto.
+La competencia a la que aporta el curso es del ciclo profesional del programa y pertenece 
+al área de materialización de experiencias:
 
-**Materializa sistemas intermediados** por el entretenimiento digital para 
-**resolver problemas** de acuerdo con requerimientos condicionados por el contexto
+Materializa sistemas intermediados por el entretenimiento digital para resolver problemas 
+de acuerdo con requerimientos condicionados por el contexto.
 
 Resultados de aprendizaje
 ---------------------------
 
-* RA1: aplico los conceptos necesarios para el correcto diseño, implementación, funcionamiento y 
-  diagnóstico del software en la producción de sistemas de entretenimiento digital 
-  utilizando los procedimientos y herramientas adecuadas. ``NIVEL AUTÓNOMO``.
-* RA2: diseño, aplico y gestiono pruebas para verificar el correcto funcionamiento de las partes 
-  y del todo de un software de manera ordenada y eficiente. ``NIVEL AUTÓNOMO``.
-* RA3: aplico los conocimientos de matemáticas, diseño, ciencias e ingeniería en mi ejercicio profesional.
-  ``NIVEL RESOLUTIVO``.
-* RA4: integro contenidos digitales para la elaboración de sistemas interactivos mediante herramientas, 
-  métodos y lenguajes de programación de manera creativa, eficiente, efectiva y ordenada. 
-  ``NIVEL AUTÓNOMO``.
+Integro contenidos digitales para la elaboración de sistemas interactivos mediante herramientas, 
+métodos y lenguajes de programación de manera creativa, eficiente, efectiva y ordenada.
+
+Se espera llegar al nivel AUTÓNOMO en este curso.
 
 ¿Cómo puedes evidenciar lo aprendido en este curso?
 -----------------------------------------------------
 
 .. warning:: EVIDENCIAS DEL APRENDIZAJE 
 
-  En cada unidad vas a realizar unos ejercicios y un reto donde 
-  podrás evidenciar los 4 resultados de aprendizaje.
+
+Vas a evidenciar el nivel resolutivo del resultado de aprendizaje:
+
+* Mediante la solución de problemas para los cuales sabrás qué 
+  concepto de física y/o matemática aplicarás.
+
+Vas a evidenciar el nivel autónomo del resultado de aprendizaje:
+
+* Mediante la solución de un problema para el cual tu tendrás que 
+  seleccionar y argumentar los conceptos que aplicarás.
 
 ¿Cuándo se consideran entregada una unidad?
 --------------------------------------------------
@@ -91,7 +97,7 @@ Cuando cumplas TODAS las condiciones siguientes:
 Carta Descriptiva
 -------------------
 
-En `este <https://github.com/juanferfranco/SimulacionInteractivos/raw/main/docs/_static/carta2022-20.xlsm>`__ enlace puedes 
+En `este <https://github.com/juanferfranco/SimulacionInteractivos/raw/main/docs/_static/carta2023-20.xlsm>`__ enlace puedes 
 consultar la carta descriptiva del curso.
 
 Metodología del curso
