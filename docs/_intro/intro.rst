@@ -169,7 +169,8 @@ Cada semana deberás dedicar 6 horas en total como mínimo.
 Bibliografía
 -------------
 
-`Texto guía <https://natureofcodeunity.com/>`__
+* `Texto guía original <https://natureofcode.com/book>`__
+* `Texto guía en Unity/C# <https://natureofcodeunity.com>`__ (tiene algunos errores)
 
 Código de honor
 -----------------
@@ -208,3 +209,8 @@ Para el trabajo final:
 * En tu repositorio podrás compartir con tu equipo el código de la solución, pero tendrás 
   que hacer tu propio video y tu propia README.md.
 * El portafolio claramente es un ejercicio individual.
+
+¿En dónde entrego las evaluaciones?
+-------------------------------------------------
+
+Entrega las evaluaciones `aquí <https://classroom.github.com/a/ct9NuXzl>`__
