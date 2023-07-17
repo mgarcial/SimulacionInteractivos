@@ -41,6 +41,9 @@ Se espera llegar al nivel AUTÓNOMO en este curso.
 
 .. warning:: EVIDENCIAS DEL APRENDIZAJE 
 
+  Ahora te voy a mostrar lo que tendrás que hacer para 
+  evidenciar cada uno de los niveles esperados del resultado 
+  de aprendizaje al que aporta este curso.
 
 Vas a evidenciar el nivel resolutivo del resultado de aprendizaje:
 
@@ -52,47 +55,54 @@ Vas a evidenciar el nivel autónomo del resultado de aprendizaje:
 * Mediante la solución de un problema para el cual tu tendrás que 
   seleccionar y argumentar los conceptos que aplicarás.
 
-¿Cuándo se consideran entregada una unidad?
---------------------------------------------------
-
-Cuando cumplas TODAS las condiciones siguientes:
-
-* Incluye toda la documentación solicitada.
-* Incluye los enlaces a videos públicos en youtube donde se muestran 
-  los ejercicios y el reto funcionando.
-* El aval de unidad entregada por parte del profesor.
-
-.. warning:: IMPORTANTE
-
-  No hay entregas parciales. Repito. No hay entregas parciales. Si tu trabajo está 
-  incompleto el docente simplemente no te dará el aval de entregado.
-  Recuerda que una vez tengas el aval la nota en el sistema 
-  de la unidad será 5.
-
-¿Cómo se evidenciará cada resultado de aprendizaje?
+¿Qué tendrás que entregar?
 -------------------------------------------------------
 
-* RA1 (aplica conceptos para escribir código) 
+Para el nivel resolutivo del resultado de aprendizaje te pediré 
+que entregues en un repositorio de GitHub que yo te daré:
 
-  * Debes tener la versión aprobada del código con la solución en el repositorio.
-  * Debes explicar qué conceptos, algoritmos, estructuras de datos y/o patrones 
-    usaste para resolver el problema.
-  * Debes explicar la función de los conceptos anteriores en la solución.
+* La solución del problema con el proyecto de Unity y el código.
+* Un enlace a YouTube con un video PÚBLICO o NO LISTADO que 
+  muestre (sin explicación) la solución del problema.
+* Un archivo README.md de cada problema con una explicación 
+  breve donde indicarás en que parte del proyecto aplicaste 
+  el concepto de matemática y/o física y cómo solucionaste 
+  el problema planteado.
 
-* RA2 (prueba las soluciones de software)
+Para el nivel autónomo del resultado de aprendizaje te pediré 
+que entregues en un repositorio de GitHub que yo te daré:
 
-  * Explica ¿Cómo probaste las partes que componen la solución?
-  * Explica ¿Cómo probaste la solución completa?
+* La solución del problema con el proyecto de Unity y el código.
+* Un enlace a YouTube con un video PÚBLICO o NO LISTADO que 
+  muestre (sin explicación) la solución del problema.
+* En el archivo README.md del proyecto final una explicación  
+  breve donde indicarás qué conceptos de matemática y/o física de 
+  cada unidad aplicaste y cómo solucionaste con cada uno de ellos 
+  el problema del proyecto final.
+* En enlace a la entrada de tu portafolio con cada uno de los elementos 
+  anteriores conectados usando la narrativa de tu elección.
 
-* RA3 (aplica matemática y/o física en la solución)
+¿Cuándo se considera entregada cada evaluación?
+-------------------------------------------------------
 
-  * Explica ¿Qué conceptos de matemática y/o física usaste para resolver el problema?
-  * Explica ¿En que parte de la solución y para qué estás usando el concepto?
+Las evaluaciones de cada unidad se considerarán entregadas cuando:
 
-* RA4 (aplicación interactiva)
+* Cumplas al 100% cada uno de los items solicitados
+* Le presentes a TU PROFESOR la evidencia y él te de el visto 
+  bueno. Si el profesor no te da el visto bueno quiere decir que 
+  debes mejorar algún aspecto.
 
-  * Agrega la URL de un video público o no listado en youtube donde muestres 
-    el ejercicio o la parte del proyecto de curso funcionando.
+¿Plazos para entregar las evaluaciones?
+-------------------------------------------------------
+
+* Unidad 1 (ruido): semana 2 julio 24
+* Unidad 2 (vectores): semana 3 julio 31
+* Unidad 3 (fuerzas): semana 4 julio 7
+* Unidad 4 (oscilaciones): semana 6 agosto 21
+* Unidad 5 (sistemas de partículas): semana 7 agosto 28
+* Unidad 6 (componentes físicos): semana 8 septiembre 4
+* Unidad 7 (agentes autónomos): semana 10 septiembre 18
+* Proyecto Final: semana 15 octubre 23.
 
 Carta Descriptiva
 -------------------
@@ -105,10 +115,9 @@ Metodología del curso
 
 La modalidad del curso es presencial. Se trabaja una metodología de ``aula invertida``. 
 En las clases presenciales, trabajarás de manera individual o en grupo para 
-resolver problemas. En el tiempo autónomo se proponen las lecturas y el material necesario 
-para preparar la sesión presencial. ES FUNDAMENTAL llegar preparado a la sesión 
-presencial, de lo contrario no se aprovechará al máxima la asesoría y acompañamiento que 
-brindará el docente.
+resolver problemas. Yo estaré allí para apoyarte y orientarte en la solución 
+de los problemas y/o aclaración de las dudas que tengas. En el tiempo autónomo 
+debes realizar las lecturas propuestas.
 
 .. warning:: ¿Por qué este curso no es como una clase tradicional?
 
@@ -117,54 +126,34 @@ brindará el docente.
   La idea es que tu aprendizaje sea ACTIVO y no centrado en la enseñanza, entonces 
   aprenderás haciendo. El papel del docente es MEDIADOR no de transmisor del conocimiento.
 
-Proyecto docente
------------------
-
-En `este <https://github.com/juanferfranco/SimulacionInteractivos/raw/main/docs/_static/FormatoPlaneacionSimulacion2023-10.xlsx>`__ 
-enlace puede descargar el proyecto docente de este curso. 
-
 Evaluación
 -----------
 
-* Ejercicios de la unidad 1 a la unidad 7: 10% cada una. Total 70%. 
-* Retos 1 a 6: 5% cada una. Total 30%
-
-.. warning:: Para los retos
-
-  Los retos inician en la unidad 2.
+* Ejercicios de la unidad 1 a la unidad 7: 10% cada una. Total 70%.
+* Proyecto Final: 30%
 
 Política de plazos y tiempos
 -----------------------------
 
-En la siguiente tabla te muestro los plazos sugeridos 
-de entrega para los ejercicios y los retos.
+.. warning:: TODAS LAS ENTREGAS SE HACEN EN HORARIOS DE CLASE
 
-========= ==================  =====================  
-Semana    Fechas              Porcentaje reportado
-========= ==================  =====================  
-Semana 1  ene 16 a ene 20     Porcentajes
-Semana 2  ene 23 a ene 27     10%
-Semana 3  ene 30 a feb 3
-Semana 4  feb 6 a feb 10      25%
-Semana 5  feb 13 a feb 17
-Semana 6  feb 20 a feb 24     40%
-Semana 7  feb 27 a mar 3
-Semana 8  mar 6 a mar 10
-Semana 9  mar 13 a mar 17     55%
-Semana 10 mar 20 a mar 24
-Semana 11 mar 27 a mar 31     70%
-Semana 12 abr 10 a abr 14
-Semana 13 abr 17 a abr 21     85%
-Semana 14 abr 24 a abr 28
-Semana 15 may 1 a may 5
-Semana 16 may 8 a may 12      100%
-========= ==================  =====================  
+  No tendremos entregas por fuera del horario de clase.
 
-En `este <https://github.com/juanferfranco/SimulacionInteractivos/raw/main/docs/_static/FormatoPlaneacionSimulacion2023-10.xlsx>`__ 
-enlace puedes consultar la semana de entrega de cada unidad.
+* No se reciben entregas parciales. DEBEN estar 100% completas.
+* Para las evaluaciones de las unidades 1 a 7. Tendrás como 
+  plazo máximo cuatro sesiones de clase posteriores a la semana 
+  de entrega. Por ejemplo,  para la evaluación de fuerzas 
+  el plazo es la semana 7. Tendrás toda la semana para terminar 
+  y para realizar la entrega. Si no alcanzas tendrás 4 sesiones más.
+  Luego de eso podrás entregar hasta la semana 12, pero tendrás una 
+  penalidad de 2 unidades.
+* Para el proyecto final. La semana siguiente a la semana de plazo 
+  tendrás una penalidad de una unidad. No se recibirá el proyecto 
+  final luego de la semana 16 y la nota será 0.
 
-¿Qué pasa si aún no recibes el aval del docente? Se reportará al sistema una nota igual 
-a 0. En el momento que recibas el aval la nota se cambiará a 5.
+¿Qué pasa si aún no recibes el visto bueno de tu profe? Te reportaré 
+en el sistema un 0 hasta que podamos hacer el ajuste en función de 
+los plazos indicados.
 
 Dedicación
 -----------
@@ -191,31 +180,31 @@ Para realizar el trabajo de cada unidad se espera que hagas lo siguiente:
   proceso de aprendizaje. Recuerda, se trata de seguir un camino
   y aprender en el recorrido.
 * ¿Entonces qué hacer si no me funciona algo? Te propongo que
-  experimentes, crea hipótesis, experimenta de nuevo, observa y concluye.
+  experimentes, crea hipótesis, experimenta de nuevo, observa y concluye. 
+  TENDRÁS que invertir TIEMPO.
 * NO OLVIDES, este curso se trata de PENSAR y experimentar NO de
   BUSCAR soluciones en Internet.
 
 ¿Qué herramientas necesitas?
 -------------------------------
 
-Puedes usar cualquier computador en el que puedas correr Unity versión LTS y 
-un entorno de desarrollo como Visual Studio o Rider.
+* Puedes usar cualquier computador en el que puedas correr Unity versión 
+  LTS y un entorno de desarrollo como Visual Studio o Rider.
+* Necesitarás git y la terminal o un cliente de Git.
 
-
-¿En dónde entregarás las evaluaciones del curso?
+¿Las evaluaciones son individuales o grupales?
 -------------------------------------------------
 
-Para entregar las evaluaciones debes:
+TODOS las evidencias de la evaluación del curso las debes presentar 
+de manera INDIVIDUAL, en tu propio repositorio.
 
-#. Conformaremos 6 equipos de trabajo de 4 personas y un equipo de 3. Esto 
-   lo haremos juntos para coordinarnos. Espera las indicaciones del profesor.
-#. Uno de los miembros del equipo creará un equipo de trabajo en Github classroom, 
-   equipo al cual se unirán los demás compañeros.
-#. Acepta este `assigment <https://classroom.github.com/a/uCp9L7zY>`__ asociado a todas 
-   las entregas del curso. 
+Para las unidades 1 a 7:
 
-¿Necesitas repasar los fundamentos de Git y Github?
-----------------------------------------------------
+* Las evaluaciones son individuales.
 
-Te dejo una tarea `aquí <https://classroom.github.com/a/ytKG44IT>`__ para que repases 
-si lo deseas.
+Para el trabajo final:
+
+* La solución del trabajo final la puedes hacer desde una hasta tres personas máximo.
+* En tu repositorio podrás compartir con tu equipo el código de la solución, pero tendrás 
+  que hacer tu propio video y tu propia README.md.
+* El portafolio claramente es un ejercicio individual.

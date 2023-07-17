@@ -1,20 +1,12 @@
 Unidad 1. Introducción
 =======================================
 
-Texto guía
---------------
-
-`Aquí <https://natureofcodeunity.com/introduction.html>`__ encontrarás el material de la unidad.
-
-
-.. warning:: OPCIONAL
-
-    Te voy a dejar ir dejando recursos interesantes que pueden interesarte  
-    una vez termines el curso o si quieres de una vez.
-
-Recursos interesantes
+Recursos 
 ----------------------
 
+* Entrega de la evaluación `aquí <https://classroom.github.com/a/ct9NuXzl>`
+* `Texto guía original <https://natureofcode.com/book>`__
+* `Texto guía en Unity/C# <https://natureofcodeunity.com>`__
 * `Videos 1 al 9 <https://youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM>`__ 
   del curso the nature of code 2.
 * Pueden encontrar algunos ejercicios resueltos en este repositorio que es del 
@@ -27,4 +19,3 @@ Recursos interesantes
 * Para los ejercicios de ruido Perlin hay un video que muestra cómo usar el ruido Perlin en Unity `aquí <https://youtu.be/bG0uEXV6aHQ>`__.
 * Para el ejercicio 10 `este <https://youtu.be/vFvwyu_ZKfU>`__ video que muestra 
   cómo generar el terreno y modificar la altura con ruido Perlin.
-
