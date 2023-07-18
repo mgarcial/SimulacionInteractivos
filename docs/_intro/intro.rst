@@ -95,7 +95,7 @@ Las evaluaciones de cada unidad se considerarán entregadas cuando:
 ¿Plazos para entregar las evaluaciones?
 -------------------------------------------------------
 
-.. warning:: TODAS LAS ENTREGAS SE HACEN EN HORARIOS DE CLASE
+.. warning:: TODAS LAS ENTREGAS SE HACEN EN HORARIO DE CLASE
 
   No tendremos entregas por fuera del horario de clase.
 
