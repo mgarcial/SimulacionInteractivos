@@ -199,3 +199,9 @@ Para el trabajo final:
 -------------------------------------------------
 
 Entrega las evaluaciones `aquí <https://classroom.github.com/a/ct9NuXzl>`__
+
+Tablero de curso
+------------------
+
+`Aquí <https://upbeduco-my.sharepoint.com/:wb:/g/personal/juanf_franco_upb_edu_co/EfeUpKddf1ZFmYz5wvZD5UIBCy5mvaTRl-v67NNbnl44fw?e=21sUxR>`__
+está el tablero del curso.
