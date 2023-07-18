@@ -3,7 +3,14 @@ Unidad 1. Introducción
 
 Evaluación
 -----------
-Vas a resolver el problema I.10 del texto guía.
+
+Observa lo que plantea el problema I.10 del texto guía 
+`aquí <https://natureofcodeunity.com/introduction.html>`__. Para esta evaluación 
+te propondré que construyas unas aplicación interactiva que permita 
+generar un mapa de elevación similar al del problema I.10, pero que puedas 
+varias en tiempo real utilizando el mecanismo de entrada que desees. Puede 
+ser el teclado, el mouse, una interfaz midi (es broma, pero no tanto), un 
+sensor, etc. DEBES usar ruido Perlin.
 
 Trayecto de actividades
 ------------------------
