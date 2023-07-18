@@ -79,7 +79,7 @@ que entregues en un repositorio de GitHub que yo te daré:
   breve donde indicarás qué conceptos de matemática y/o física de 
   cada unidad aplicaste y cómo solucionaste con cada uno de ellos 
   el problema del proyecto final.
-* En enlace a la entrada de tu portafolio con cada uno de los elementos 
+* Un enlace a la entrada de tu portafolio con cada uno de los elementos 
   anteriores conectados usando la narrativa de tu elección.
 
 ¿Cuándo se considera entregada cada evaluación?
@@ -95,20 +95,32 @@ Las evaluaciones de cada unidad se considerarán entregadas cuando:
 ¿Plazos para entregar las evaluaciones?
 -------------------------------------------------------
 
-* Unidad 1 (ruido): semana 2 julio 24
-* Unidad 2 (vectores): semana 3 julio 31
-* Unidad 3 (fuerzas): semana 4 julio 7
-* Unidad 4 (oscilaciones): semana 6 agosto 21
-* Unidad 5 (sistemas de partículas): semana 7 agosto 28
-* Unidad 6 (componentes físicos): semana 8 septiembre 4
-* Unidad 7 (agentes autónomos): semana 10 septiembre 18
-* Proyecto Final: semana 15 octubre 23.
+.. warning:: TODAS LAS ENTREGAS SE HACEN EN HORARIOS DE CLASE
+
+  No tendremos entregas por fuera del horario de clase.
+
+  Luego del plazo 1 la nota será cero a menos que se entregue 
+  en los plazos siguientes. Luego del plazo 3 la nota quedará en 
+  cero.
+
+=========== =================  ================= ==================
+Evaluación  Plazo 1 (sobre 5)  Plazo 2 (sobre 5) Plazo 3 (sobre 4)
+=========== =================  ================= ================== 
+* Unidad 1  semana 2 jul 24    semana 3          semana 4
+* Unidad 2  semana 3 jul 31    semana 4          semana 5  
+* Unidad 3  semana 4 jul 7     semana 5          semana 6
+* Unidad 4  semana 6 ago 21    semana 7          semana 8
+* Unidad 5  semana 7 ago 28    semana 8          semana 9
+* Unidad 6  semana 8 sep 4     semana 9          semana 10
+* Unidad 7  semana 10 sep 18   semana 11         semana 12
+* Final:    semana 15 oct 23   no hay            semana 16    
+=========== =================  ================= ================== 
 
 Carta Descriptiva
 -------------------
 
-En `este <https://github.com/juanferfranco/SimulacionInteractivos/raw/main/docs/_static/carta2023-20.xlsm>`__ enlace puedes 
-consultar la carta descriptiva del curso.
+En `este <https://github.com/juanferfranco/SimulacionInteractivos/raw/main/docs/_static/carta2023-20.xlsm>`__ 
+enlace puedes consultar la carta descriptiva del curso.
 
 Metodología del curso
 -----------------------------------
@@ -131,29 +143,6 @@ Evaluación
 
 * Ejercicios de la unidad 1 a la unidad 7: 10% cada una. Total 70%.
 * Proyecto Final: 30%
-
-Política de plazos y tiempos
------------------------------
-
-.. warning:: TODAS LAS ENTREGAS SE HACEN EN HORARIOS DE CLASE
-
-  No tendremos entregas por fuera del horario de clase.
-
-* No se reciben entregas parciales. DEBEN estar 100% completas.
-* Para las evaluaciones de las unidades 1 a 7. Tendrás como 
-  plazo máximo cuatro sesiones de clase posteriores a la semana 
-  de entrega. Por ejemplo,  para la evaluación de fuerzas 
-  el plazo es la semana 7. Tendrás toda la semana para terminar 
-  y para realizar la entrega. Si no alcanzas tendrás 4 sesiones más.
-  Luego de eso podrás entregar hasta la semana 12, pero tendrás una 
-  penalidad de 2 unidades.
-* Para el proyecto final. La semana siguiente a la semana de plazo 
-  tendrás una penalidad de una unidad. No se recibirá el proyecto 
-  final luego de la semana 16 y la nota será 0.
-
-¿Qué pasa si aún no recibes el visto bueno de tu profe? Te reportaré 
-en el sistema un 0 hasta que podamos hacer el ajuste en función de 
-los plazos indicados.
 
 Dedicación
 -----------
@@ -198,10 +187,6 @@ Para realizar el trabajo de cada unidad se espera que hagas lo siguiente:
 
 TODOS las evidencias de la evaluación del curso las debes presentar 
 de manera INDIVIDUAL, en tu propio repositorio.
-
-Para las unidades 1 a 7:
-
-* Las evaluaciones son individuales.
 
 Para el trabajo final:
 
