@@ -10,13 +10,65 @@ Generación procedural:
 * Codeer `Introduction To My Weird Shooter Game - Devlog 0 <https://youtu.be/NoJXn-Fh6CU>`__.
 * Codeer `Unity procedural animation tutorial (10 steps) <https://youtu.be/e6Gjhr1IP6w>`__.
 * Unity `Creating a boss with procedural animation | Prototype Series <https://youtube.com/playlist?list=PLX2vGYjWbI0SwlTX_RLSD0JmzUeS0f1OK>`__.
+* `GENERATIVE ART 101 <https://derivative.ca/community-post/generative-art-101-surprising-connection-between-math-art-and-nature/62742>`__.
+* `Generative art <https://en.wikipedia.org/wiki/Generative_art>`__.
+* `Algorithmic art <https://en.wikipedia.org/wiki/Algorithmic_art>`__.
+* `Artificial intelligence art <https://en.wikipedia.org/wiki/Artificial_intelligence_art>`__.
+* `Generative Art <https://cognitiveexperience.design/generative-art/>`__.
+
+
+Artistas
+---------
+
+* `Casey Reas <https://reas.com/>`__.
+* `feralfile <https://feralfile.com/about>`__.
+* `Tony DeRose <https://youtu.be/_IZMVMf4NQ0>`__ y `este <https://youtu.be/mX0NB9IyYpU>`__.
+
+Libros
+--------
+
+* `Basic Math for Game Development with Unity 3D <https://link.springer.com/book/10.1007/978-1-4842-5443-1#toc>`__.
+* `Computational Geometry: Algorithms and Applications <https://www.amazon.com/Computational-Geometry-Applications-Mark-Berg/dp/3540779736/>`__.
+
+Math
+------
+
+* `Linear Algebra for Games <https://www.youtube.com/watch?v=JHXUU5aqIcg>`__.
+* `Essential Mathematics For Aspiring Game Developers <https://www.youtube.com/watch?v=DPfxjQ6sqrc>`__.
+* `Math For Video Games: The Fastest Way To Get Smarter At Math <https://www.udemy.com/course/math-for-games/>`__.
+* `Introduction to Unity.Mathematics - Unite Copenhagen <https://www.youtube.com/watch?v=u9DzbBHNwtc>`.__
+
+Sitios 
+--------
+
+* `Use math to solve problems in Unity with C# <https://www.habrador.com/tutorials/math/>`__.
+* `A community maintained Python library for creating mathematical animations <https://www.manim.community/>`__.
+
+Videos
+--------
+
+* `Differential Equations and Dynamical Systems: Overview <https://youtu.be/9fQkLQZe3u8>`__.
+* 3Blue1Brown `Differential equations, a tourist's guide <https://youtu.be/p_di4Zn4wz4>`__.
+* `Solar System Simulation [Unity 3D Tutorial] <https://youtu.be/2fGL1QWMdqc>`__.
+* `How to Set Up Dynamic Water Physics and Boat Movement in Unity | Ship Buoyancy Tutorial <https://youtu.be/eL_zHQEju8s>`__.
+* `Craig Taylor—Outlier 2021—3d Geo Data Viz: From Insight to Data Art <https://youtu.be/wxmqG_jxJiw>`__.
 
 Ejemplos
 ------------
-* `Hydraulic Erosion <https://youtu.be/eaXk97ujbPQ>`__.
+
+TDAxis
+*******************
+
+Crea y transforma imágenes y sonidos con los movimientos de tu cuerpo 
+`aquí <https://tdaxis.github.io/>`.__
+
+Hydraulic Erosion
+*******************
+
+`Aquí <https://youtu.be/eaXk97ujbPQ>`__ está el ejemplo.
 
 Atractor de Lorentz
----------------------
+**********************
 
 La siguiente figura (tomada de `aquí <http://paulbourke.net/fractals/lorenz/>`__) 
 corresponde a un atractor de Lorenz que es un conjunto de soluciones caóticas 
