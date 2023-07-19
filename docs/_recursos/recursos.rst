@@ -15,6 +15,7 @@ Generación procedural:
 * `Algorithmic art <https://en.wikipedia.org/wiki/Algorithmic_art>`__.
 * `Artificial intelligence art <https://en.wikipedia.org/wiki/Artificial_intelligence_art>`__.
 * `Generative Art <https://cognitiveexperience.design/generative-art/>`__.
+* `CodeParade <https://www.youtube.com/@CodeParade/featured>`__.
 
 
 Artistas
@@ -38,6 +39,9 @@ Math
 * `Essential Mathematics For Aspiring Game Developers <https://www.youtube.com/watch?v=DPfxjQ6sqrc>`__.
 * `Math For Video Games: The Fastest Way To Get Smarter At Math <https://www.udemy.com/course/math-for-games/>`__.
 * `Introduction to Unity.Mathematics - Unite Copenhagen <https://www.youtube.com/watch?v=u9DzbBHNwtc>`__.
+* `Unity Math <https://youtube.com/playlist?list=PLMj5RSRN1rwp0R01nByvvYUvffoEyStzk>`__.
+
+
 
 Sitios 
 --------
@@ -53,6 +57,9 @@ Videos
 * `Solar System Simulation [Unity 3D Tutorial] <https://youtu.be/2fGL1QWMdqc>`__.
 * `How to Set Up Dynamic Water Physics and Boat Movement in Unity | Ship Buoyancy Tutorial <https://youtu.be/eL_zHQEju8s>`__.
 * `Craig Taylor—Outlier 2021—3d Geo Data Viz: From Insight to Data Art <https://youtu.be/wxmqG_jxJiw>`__.
+* `Learn how to use a geometry feedback loop to create a differential growth animation in Blender 3.3! <https://youtu.be/zMODkMdc8Ec>`__.
+* `Chaos Equations - Simple Mathematical Art <https://youtu.be/fDSIRXmnVvk>`__.
+
 
 Portafolios
 ------------
@@ -67,6 +74,9 @@ Portafolios
 * `Allison winter <https://www.allisonwinter.com/>`__.
 * `Koenvo <https://www.koenvo.com/>`__.
 *  `Dennis Snellenberg <https://dennissnellenberg.com/>`__.
+* `Brandon Hampton <https://www.bhamps.com/>`__.
+* `Luca Vonilo <https://lucavolino.com/>`__.
+
 
 Ejemplos
 ------------
