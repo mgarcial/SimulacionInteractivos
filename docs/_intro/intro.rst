@@ -108,7 +108,7 @@ Evaluación  Plazo 1 (sobre 5)  Plazo 2 (sobre 5) Plazo 3 (sobre 4)
 =========== =================  ================= ================== 
 * Unidad 1  semana 2 jul 24    semana 3          semana 4
 * Unidad 2  semana 3 jul 31    semana 4          semana 5  
-* Unidad 3  semana 4 jul 7     semana 5          semana 6
+* Unidad 3  semana 4 ago 7     semana 5          semana 6
 * Unidad 4  semana 6 ago 21    semana 7          semana 8
 * Unidad 5  semana 7 ago 28    semana 8          semana 9
 * Unidad 6  semana 8 sep 4     semana 9          semana 10
