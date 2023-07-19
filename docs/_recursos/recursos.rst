@@ -22,7 +22,8 @@ Artistas
 
 * `Casey Reas <https://reas.com/>`__.
 * `feralfile <https://feralfile.com/about>`__.
-* `Tony DeRose <https://youtu.be/_IZMVMf4NQ0>`__ y `este <https://youtu.be/mX0NB9IyYpU>`__.
+* `Tony DeRose <https://youtu.be/_IZMVMf4NQ0>`__.
+* `Tony DeRose <https://youtu.be/mX0NB9IyYpU>`__.
 
 Libros
 --------
@@ -52,6 +53,20 @@ Videos
 * `Solar System Simulation [Unity 3D Tutorial] <https://youtu.be/2fGL1QWMdqc>`__.
 * `How to Set Up Dynamic Water Physics and Boat Movement in Unity | Ship Buoyancy Tutorial <https://youtu.be/eL_zHQEju8s>`__.
 * `Craig Taylor—Outlier 2021—3d Geo Data Viz: From Insight to Data Art <https://youtu.be/wxmqG_jxJiw>`__.
+
+Portafolios
+------------
+
+* `Jellever <https://www.jellever.be/>`__.
+* `Jelle story telling idea <https://youtu.be/CTvbuqRCoKk>`__.
+* `Andrea Gonzalez profe de IDED <https://github.com/juanferfranco/SimulacionInteractivos/tree/main/docs/_static/AndreaGonzalez_Portfolio_compressed.pdf>`__.
+* `Mateusz Grad <https://www.behance.net/gallery/139111749/Fundi-UIUX-App-Design?tracking_source=search_projects>`__.
+* `Gapsy Studio <https://www.behance.net/gallery/139545717/Pickle-Mobile-UIUX-for-Social-app?tracking_source=search_projects>`__.
+* `Gapsy Studio <https://www.behance.net/gallery/114257749/MyLagro-Website-Mobile-App>`__.
+* `Fabian Shinzato <https://www.behance.net/gallery/104515801/Bloom-UXUI?tracking_source=search_projects>`__.
+* `Allison winter <https://www.allisonwinter.com/>`__.
+* `Koenvo <https://www.koenvo.com/>`__.
+*  `Dennis Snellenberg <https://dennissnellenberg.com/>`__.
 
 Ejemplos
 ------------
