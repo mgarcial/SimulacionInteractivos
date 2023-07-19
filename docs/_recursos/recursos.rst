@@ -36,7 +36,7 @@ Math
 * `Linear Algebra for Games <https://www.youtube.com/watch?v=JHXUU5aqIcg>`__.
 * `Essential Mathematics For Aspiring Game Developers <https://www.youtube.com/watch?v=DPfxjQ6sqrc>`__.
 * `Math For Video Games: The Fastest Way To Get Smarter At Math <https://www.udemy.com/course/math-for-games/>`__.
-* `Introduction to Unity.Mathematics - Unite Copenhagen <https://www.youtube.com/watch?v=u9DzbBHNwtc>`.__
+* `Introduction to Unity.Mathematics - Unite Copenhagen <https://www.youtube.com/watch?v=u9DzbBHNwtc>`__.
 
 Sitios 
 --------
@@ -60,7 +60,7 @@ TDAxis
 *******************
 
 Crea y transforma imágenes y sonidos con los movimientos de tu cuerpo 
-`aquí <https://tdaxis.github.io/>`.__
+`aquí <https://tdaxis.github.io/>`__.
 
 Hydraulic Erosion
 *******************
