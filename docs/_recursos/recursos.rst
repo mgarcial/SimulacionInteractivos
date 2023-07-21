@@ -62,6 +62,7 @@ Sitios
 
 * `Use math to solve problems in Unity with C# <https://www.habrador.com/tutorials/math/>`__.
 * `A community maintained Python library for creating mathematical animations <https://www.manim.community/>`__.
+* `CHROME MUSIC LAB <https://musiclab.chromeexperiments.com/Experiments>`__.
 
 Videos
 --------
