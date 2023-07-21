@@ -40,8 +40,22 @@ Math
 * `Math For Video Games: The Fastest Way To Get Smarter At Math <https://www.udemy.com/course/math-for-games/>`__.
 * `Introduction to Unity.Mathematics - Unite Copenhagen <https://www.youtube.com/watch?v=u9DzbBHNwtc>`__.
 * `Unity Math <https://youtube.com/playlist?list=PLMj5RSRN1rwp0R01nByvvYUvffoEyStzk>`__.
+* `This equation will change how you see the world (the logistic map) <https://youtu.be/ovJcsL7vyrk>`__.
+* `The Map of Mathematics <https://youtu.be/OmJ-4B-mS-Y>`__.
+* `Differential equations, a tourist's guide | DE1 <https://youtu.be/p_di4Zn4wz4>`__.
+* `Numerical Simulation of Ordinary Differential Equations: Integrating ODEs <https://youtu.be/QBeNXHrAYns>`__.
+* `Simulate Coupled Differential Equations in Python <https://youtu.be/zRMmiBMjP9o>`__.
+* Animaciones basadas en el video Chaos Equations - Simple Mathematical Art by CodeParade 
+  usando blender + animation nodes `beauty of math <https://youtu.be/7JMDqrCKlAk>`__.
+* `Chaos: The Science of the Butterfly Effect <https://youtu.be/fDek6cYijxI>`__.
+* `How Tool Used Math to Create Lateralus <https://youtu.be/uOHkeH2VaE0>`__.
 
 
+Física
+---------
+
+* `The relationship between chaos, fractal and physics <https://youtu.be/C5Jkgvw-Z6E>`__.
+* `The Map of Physics <https://youtu.be/ZihywtixUYo>`__.
 
 Sitios 
 --------
@@ -52,6 +66,7 @@ Sitios
 Videos
 --------
 
+* `Cómo hacer EFECTOS de PARTÍCULAS en Unity | Tutorial VFX <https://youtu.be/4ZffPhom758>`__.
 * `Differential Equations and Dynamical Systems: Overview <https://youtu.be/9fQkLQZe3u8>`__.
 * 3Blue1Brown `Differential equations, a tourist's guide <https://youtu.be/p_di4Zn4wz4>`__.
 * `Solar System Simulation [Unity 3D Tutorial] <https://youtu.be/2fGL1QWMdqc>`__.
@@ -59,6 +74,29 @@ Videos
 * `Craig Taylor—Outlier 2021—3d Geo Data Viz: From Insight to Data Art <https://youtu.be/wxmqG_jxJiw>`__.
 * `Learn how to use a geometry feedback loop to create a differential growth animation in Blender 3.3! <https://youtu.be/zMODkMdc8Ec>`__.
 * `Chaos Equations - Simple Mathematical Art <https://youtu.be/fDSIRXmnVvk>`__.
+* `Are there other Chaotic Attractors? <https://youtu.be/idpOunnpKTo>`__.
+* `Beautiful graphics from the chaos theory created by sali-math-arts <https://youtu.be/s5UXMWeAkxc>`__.
+* `Lorenz System: Visualization by Ross Mentor Dr. Bruce Stewart <https://youtu.be/CeCePH_HL0g>`__.
+* `Lorenz Attractor Visualization - Simulation of Chaos a.k.a Butterfly Effect <https://youtu.be/oqDQwEvHGfE>`__.
+* `Lorenz Attractor Visualizer in Unity3D <https://youtu.be/zvciEKEjuXI>`__.
+* `Coding Challenge #12: The Lorenz Attractor in Processing <https://youtu.be/f0lkz2gSsIk>`__.
+* `Lorenz Attractor + Touchdesigner <https://youtu.be/pMtC8t97Zjw>`__.
+* `Attraktor Designer - Liu Chen Attraktor Variations - Made with TouchDesigner <https://youtu.be/025XoMv4n6E>`__.
+* `Unity Fluid Mechanics: Simulating Tank Fluid Height During Drainage <https://youtu.be/1eLRgoV53K0>`__.
+* `Lorenz Attractor In Unity <https://youtu.be/T8cSsAu6cDU>`__.
+* `Unity GPU Thomas Attractor <https://youtu.be/hwX_qO0ocjU>`__.
+* `Audio / Music Visualizer - Lorenz System (Unity3D) <https://youtu.be/Rgu4TiTfQYs>`__.
+* `The Double Pendulum Fractal <https://youtu.be/n7JK4Ht8k8M>`__.
+* `Chaos Theory: the language of (in)stability <https://youtu.be/uzJXeluCKMs>`__.
+* `Cool Chaotic Systems <https://youtu.be/FRApCfqr1x0>`__.
+* `Blender Tutorial: Geometry Nodes Simulation: Advect by Curl Noise <https://youtu.be/MMwzKylfM8g>`__.
+* `Math meets artistry | Animation | Computer animation | Khan Academy <https://youtu.be/zaNUFmhD5PM>`__.
+
+
+Optimización
+--------------
+
+* `How to Actually optimize your game in Unity - Complete Game Optimization Guide <https://youtu.be/ysk7ATmIeOs>`__.
 
 
 Portafolios
