@@ -46,6 +46,4 @@ Recursos
   Unity `aquí <https://youtu.be/bG0uEXV6aHQ>`__.
 * Para el ejercicio 10 `este <https://youtu.be/vFvwyu_ZKfU>`__ video que muestra 
   cómo generar el terreno y modificar la altura con ruido Perlin.
-* `Otro <https://youtu.be/bG0uEXV6aHQ>`__ ejemplo de uso del ruido Perlin, pero esta vez la 
-  generación de una textura.
 
