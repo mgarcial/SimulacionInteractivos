@@ -131,6 +131,12 @@ Hydraulic Erosion
 
 `Aquí <https://youtu.be/eaXk97ujbPQ>`__ está el ejemplo.
 
+Experimentos con audio
+************************
+
+En `esta <https://github.com/juanferfranco/UnityAudio.git>`__ guía podrás realizar algunos 
+experimentos con audio.
+
 Atractor de Lorentz
 **********************
 
