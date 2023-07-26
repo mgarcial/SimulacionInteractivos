@@ -16,7 +16,7 @@ Trayecto de actividades
 ------------------------
 
 * MIRA por favor el plazo de entrega de esta unidad. ¿Lo tienes claro?
-* Plena cómo vas a invertir el tiempo basado en el plazo.
+* Planea cómo vas a invertir el tiempo basado en el plazo.
 * Lo primero que harás es leer con atención la evaluación propuesta.
 * Luego vas a revisar la unidad introductoria del texto guía. Allí encontrarás 
   la información que necesitas para resolver el problema. Ten presente que el texto 
