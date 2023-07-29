@@ -122,6 +122,56 @@ Portafolios
 Ejemplos
 ------------
 
+Borrar del historial de git un archivo 
+***************************************
+
+A veces cuando estás trabajando con git te ocurre que por error incluyes en el 
+historial del repositorio un archivo o un directorio grande. Cuando 
+eso te pasa es muy posible que te des cuenta luego de un rato y borres 
+de tu proyecto el archivo o directorio; sin embargo, cada que clonas el 
+repositorio en otro computador notas que el repositorio sigue siendo muy 
+grande. Lo que pasa es que el archivo o directorio aún está en el historial 
+de git como un backup porque git no sabe que lo incluiste por equivocación y 
+más bien te deja abierta la puerta para que lo recuperes en caso de necesitarlo. 
+Incluso en Github puede ver el historial de tu repositorio. Si vas a un 
+commit antiguo podrás ver que el archivo o directorio eliminado de tu versión 
+más reciente del proyecto aún sigue en el repo. Entonces ¿Qué puedes hacer 
+para eliminar del historial ese archivo o directorio para que no te aparezca 
+en ninguno de los commits de la historia de tu proyecto? Sigue estos pasos:
+
+* Clona el repositorio en tu computador
+* Cámbiate al directorio de tu repositorio. Si ejecutas el comando ls -al 
+  podrás ver que allí está el directorio .git.
+* Ejecuta el comando:
+
+  .. code-block:: bash
+
+      git filter-branch -f --index-filter "git rm -rf --cache --ignore-unmatch path_al directorio" HEAD
+
+* Si de casualidad en el path tienes espacios o caracteres como ñ, tildes, paréntesis, entre 
+  otros, debes marcarlos. Por ejemplo, supón que quieres borrar del historial la carpeta Library 
+  que está en el directorio ``My project (1)``, entones cuando escribas el path debes 
+  especificar esta carpeta como ``My\ project\ \(1\)``. Nota que tanto los espacios como los 
+  paréntesis en el nombre del directorio deben marcarse usando el carácter ``\``. Te dejo un 
+  ejemplo:
+
+  .. code-block:: bash
+
+    git filter-branch -f --index-filter "git rm -rf --cache --ignore-unmatch 01ruido/My\ project\ \(1\)/Library" HEAD
+
+* Una vez la operación sea exitosa, debes enviar el repositorio local a Github, pero necesitarás 
+  forzar esta operación:
+
+  .. code-block:: bash
+
+    git push --force origin main
+
+* Por último, si todo sale bien podrás borrar el backup que hace git:
+
+  .. code-block:: bash
+
+    rm -r -f refs/original/
+
 TDAxis
 *******************
 
