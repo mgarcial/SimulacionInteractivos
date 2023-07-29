@@ -172,6 +172,33 @@ en ninguno de los commits de la historia de tu proyecto? Sigue estos pasos:
 
     rm -r -f refs/original/
 
+Rutas largas en Windows 
+*************************
+
+Windows mantiene una limitación de tamaña de ruta de 260 caracteres. Esta limitación 
+se presenta para mantener la compatibilidad con versiones antiguas del sistema 
+operativo; sin embargo, esta limitación puede ser muy incómoda. Incluso a veces 
+es necesario que crees tus proyectos en la raiz del volumen de tu sistema de archivos, 
+por ejemplo, en la unidad ``C:``. Afortunadamente, esta limitación se puede levantar. 
+Para ello tendrás que crear una clave nueva en el registro de windows. Primero vas a 
+verificar si la clave ya existe. Abre PowerShell y ejecuta:
+
+.. code-block:: bash
+
+  Get-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem"
+
+Busca si la clave ``LongPathsEnabled`` existe y si su valor es 1. Se es así, ya tienes 
+levantada la restricción. Si no es así, entonces tendrás que escribir el registro de 
+windws para crear la clave y hacerla igual a 1:
+
+.. code-block:: bash
+
+  New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" -Name "LongPathsEnabled" -Value 1 -PropertyType DWORD -Force
+
+.. warning:: AGUANDO LA FIESTA
+
+  Ten presente que necestarás permisos de Administrador para hacer esta operación.
+
 TDAxis
 *******************
 
