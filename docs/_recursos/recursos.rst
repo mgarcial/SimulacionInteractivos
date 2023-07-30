@@ -35,6 +35,7 @@ Libros
 Math
 ------
 
+* `Fundamental Math for Game Developers <https://pikuma.com/blog/math-for-game-developers>`__.
 * `Linear Algebra for Games <https://www.youtube.com/watch?v=JHXUU5aqIcg>`__.
 * `Essential Mathematics For Aspiring Game Developers <https://www.youtube.com/watch?v=DPfxjQ6sqrc>`__.
 * `Math For Video Games: The Fastest Way To Get Smarter At Math <https://www.udemy.com/course/math-for-games/>`__.
