@@ -5,7 +5,7 @@ Generación procedural:
 ---------------------------
 
 * Sebastian Lague `Procedural Terrain Generation <https://youtube.com/playlist?list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3>`__.
-* Catlike Coding `Noise Derivatives, going with the flow <https://catlikecoding.com/unity/tutorials/noise-derivatives/>`__.
+* Catlike Coding `Noise Derivatives, going with the flow <https://catlikecoding.com/unity/tutorials/pseudorandom-noise/>`__.
 * t3ssel8r `Giving Personality to Procedural Animations using Math <https://youtu.be/KPoeNZZ6H4s>`__.
 * Codeer `Introduction To My Weird Shooter Game - Devlog 0 <https://youtu.be/NoJXn-Fh6CU>`__.
 * Codeer `Unity procedural animation tutorial (10 steps) <https://youtu.be/e6Gjhr1IP6w>`__.
@@ -31,6 +31,7 @@ Libros
 
 * `Basic Math for Game Development with Unity 3D <https://link.springer.com/book/10.1007/978-1-4842-5443-1#toc>`__.
 * `Computational Geometry: Algorithms and Applications <https://www.amazon.com/Computational-Geometry-Applications-Mark-Berg/dp/3540779736/>`__.
+* `3D Math Primer for Graphics and Game Development <https://gamemath.com/book/intro.html>`__.
 
 Math
 ------
@@ -50,7 +51,7 @@ Math
   usando blender + animation nodes `beauty of math <https://youtu.be/7JMDqrCKlAk>`__.
 * `Chaos: The Science of the Butterfly Effect <https://youtu.be/fDek6cYijxI>`__.
 * `How Tool Used Math to Create Lateralus <https://youtu.be/uOHkeH2VaE0>`__.
-
+* `Parametric equation <https://en.wikipedia.org/wiki/Parametric_equation>`__.
 
 Física
 ---------
@@ -66,6 +67,10 @@ Sitios
 * `CHROME MUSIC LAB <https://musiclab.chromeexperiments.com/Experiments>`__.
 * `Tutoriales cortos <https://learn.unity.com/project/the-physics-of-ai>`__ de la profesora 
   Penny de Byl sobre el manejo de tiempo, velocidad, aceleración y cálculo de trayectorias.
+* `Interpolation and Control Systems <https://gamemath.com/gdc2021/>`__.
+* `Spring-It-On: The Game Developer's Spring-Roll-Call <https://theorangeduck.com/page/spring-roll-call>`__.
+* `Should I Write a Game Engine or use an Existing One? <https://pikuma.com/blog/why-make-a-game-engine>`__.
+
 
 Videos
 --------
@@ -95,7 +100,7 @@ Videos
 * `Cool Chaotic Systems <https://youtu.be/FRApCfqr1x0>`__.
 * `Blender Tutorial: Geometry Nodes Simulation: Advect by Curl Noise <https://youtu.be/MMwzKylfM8g>`__.
 * `Math meets artistry | Animation | Computer animation | Khan Academy <https://youtu.be/zaNUFmhD5PM>`__.
-
+* `Math for Game Programmers: Fast and Funky 1D Nonlinear Transformations <https://www.gdcvault.com/play/1022142/Math-for-Game-Programmers-Fast>`__.
 
 Optimización
 --------------
