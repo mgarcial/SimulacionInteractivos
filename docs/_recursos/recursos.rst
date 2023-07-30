@@ -52,6 +52,9 @@ Math
 * `Chaos: The Science of the Butterfly Effect <https://youtu.be/fDek6cYijxI>`__.
 * `How Tool Used Math to Create Lateralus <https://youtu.be/uOHkeH2VaE0>`__.
 * `Parametric equation <https://en.wikipedia.org/wiki/Parametric_equation>`__.
+* `The basics of Painting with Maths <https://youtu.be/0ifChJ0nJfM>`__.
+* `Painting a Landscape with Maths <https://youtu.be/BFld4EBO2RE>`__.
+* `Painting a Character with Maths <https://youtu.be/8--5LwHRhjk>`__.
 
 Física
 ---------
