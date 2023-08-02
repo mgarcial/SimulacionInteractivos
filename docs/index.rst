@@ -15,10 +15,10 @@ Créditos y horas totales del curso: 2 créditos - 96 horas totales
    ¿De qué se trata este curso? <_intro/intro>
    Unidad 1: Introducción <_unidad1/unidad1>
    Unidad 2: Vectores <_unidad2/unidad2>
+   Unidad 3: Fuerzas <_unidad3/unidad3>
    Recursos: Recursos Interesantes <_recursos/recursos>
 
 ..
-   Unidad 3: Fuerzas <_unidad3/unidad3>
    Unidad 4: Oscilaciones <_unidad4/unidad4>
    Unidad 5: Sistemas de partículas <_unidad5/unidad5>
    Unidad 6: Componentes Físicos <_unidad6/unidad6>
