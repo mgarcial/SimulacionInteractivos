@@ -116,7 +116,7 @@ Portafolios
 
 * `Jellever <https://www.jellever.be/>`__.
 * `Jelle story telling idea <https://youtu.be/CTvbuqRCoKk>`__.
-* `Andrea Gonzalez profe de IDED <https://github.com/juanferfranco/SimulacionInteractivos/tree/main/docs/_static/AndreaGonzalez_Portfolio_compressed.pdf>`__.
+* `Andrea Gonzalez profe de IDED <https://drive.google.com/file/d/1OpKvM0XYEKNzZuHbyix1ohnfU5JwGGWI/view?usp=sharing>`__.
 * `Mateusz Grad <https://www.behance.net/gallery/139111749/Fundi-UIUX-App-Design?tracking_source=search_projects>`__.
 * `Gapsy Studio <https://www.behance.net/gallery/139545717/Pickle-Mobile-UIUX-for-Social-app?tracking_source=search_projects>`__.
 * `Gapsy Studio <https://www.behance.net/gallery/114257749/MyLagro-Website-Mobile-App>`__.
