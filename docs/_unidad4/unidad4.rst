@@ -11,8 +11,112 @@ toca que uses tu computador porque la herramienta no está instalada en la UPB.
 Proyecto 1
 *************
 
-Vas a continuar enriqueciendo el proyecto del ecosistema.
+Vas a continuar enriqueciendo el proyecto del ecosistema. A medida que avances con esta simulación 
+las historias de tu ecosistema de criaturas se harán más ricas. No olvides que tu una aplicación 
+interactiva en Ingeniería en Diseño de Entretenimiento Digital se queda corra si deja 
+de contar una historia, si no hay narrativa.
 
+Objetivo del proyecto
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+Crear una simulación interactiva de un ecosistema donde diferentes especies interactúan 
+y se comportan utilizando conceptos de oscilaciones, movimiento armónico simple, 
+péndulos y fuerzas de resortes. Explora cómo estas interacciones afectan el comportamiento y 
+la dinámica del ecosistema.
+
+Características de la simulación
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* Creación del ecosistema: crearás un ecosistema virtual con diferentes especies, como presas, 
+  depredadores y plantas. Cada especie estará representada por objetos que se comporten como 
+  péndulos y fuerzas de resortes.
+* Interacción entre especies: implementarás reglas y comportamientos para que las especies 
+  interactúen entre sí. Por ejemplo, los depredadores pueden ``apuntar`` a las presas y las 
+  presas pueden evadir a los depredadores. Además, las especies pueden interactuar con las 
+  plantas para obtener energía y nutrición.
+* Movimiento armónico simple: las especies se moverán en patrones de movimiento armónico simple. 
+  Por ejemplo, las presas pueden oscilar mientras se desplazan en línea recta, y los 
+  depredadores pueden realizar movimientos oscilatorios mientras persiguen a sus presas.
+* Simulación de ondas: implementarás simulaciones de ondas en el ecosistema. 
+  Por ejemplo, puedes agregar un lago o un cuerpo de agua donde las ondas se propaguen y 
+  afecten el comportamiento de las especies que interactúan con el agua.
+* Fuerzas de resortes: las interacciones entre las especies se basarán en fuerzas de resortes 
+  simuladas. Por ejemplo, los depredadores experimentarán una fuerza de resorte al acercarse a 
+  las presas, y las especies pueden experimentar fuerzas de repulsión o atracción 
+  entre sí.
+* Movimiento angular: las especies pueden tener movimientos angulares que afecten su comportamiento. 
+  Por ejemplo, algunas especies pueden girar para enfrentar la dirección de movimiento o 
+  apuntar hacia sus objetivos.
+* Visualización interactiva: crearás una visualización gráfica que represente las especies y su 
+  comportamiento en el ecosistema. Puedes usar elementos visuales para indicar las oscilaciones, 
+  el movimiento armónico, las fuerzas de resortes y la dirección de movimiento de las especies.
+* Interacción del usuario: los usuarios podrán interactuar con el ecosistema y modificar 
+  parámetros como la cantidad de especies, las constantes elásticas de los resortes, 
+  la frecuencia y amplitud de las oscilaciones, entre otros.
+
+Ideas adicionales
+^^^^^^^^^^^^^^^^^^^^^
+
+1. **Creación del ecosistema:**
+   
+   * Puedes personalizar tu ecosistema eligiendo diferentes tipos de especies con comportamientos 
+     específicos. Por ejemplo, agrega especies herbívoras, carnívoras y omnívoras con distintos 
+     tamaños y velocidades.
+   * Establece la densidad y distribución de las especies en el entorno para influir en la 
+     competencia y la disponibilidad de recursos.
+
+2. **Interacción entre especies:**
+   
+   * Implementa un sistema de alimentación donde las especies depredadoras deben cazar y atrapar 
+     a las presas para obtener alimento y mantener su energía.
+   * Agrega comportamientos de reproducción para que las especies puedan aumentar su población 
+     y mantener un equilibrio en tu ecosistema.
+
+3. **Movimiento armónico simple:**
+   
+   * Ajusta la frecuencia y amplitud de las oscilaciones de las especies, lo que afecta su 
+     velocidad y comportamiento general.
+   * Experimenta con oscilaciones de diferentes patrones, como oscilaciones amortiguadas o 
+     forzadas, para simular especies con comportamientos únicos.
+
+4. **Simulación de ondas:**
+
+   * Agrega eventos que generen ondas en el entorno, como terremotos, movimientos de masas de agua 
+     o ráfagas de viento, para afectar el comportamiento de las especies y su ubicación en el ecosistema.
+   * Ajusta la intensidad y frecuencia de las ondas para ver cómo afectan a las especies y 
+     cómo se propagan por todo tu ecosistema.
+
+5. **Fuerzas de resortes:**
+   
+   * Incorpora objetos o trampas con fuerzas de resorte que interactúen con las especies, como 
+     redes de pesca o campos magnéticos, para afectar su movimiento y comportamiento.
+   * Experimenta con resortes de diferentes constantes elásticas para simular diferentes 
+     niveles de rigidez en el entorno y observa cómo afectan la movilidad de las especies.
+
+6. **Movimiento angular:**
+   
+   * Ajusta el ángulo de dirección de movimiento de las especies para que apunten hacia 
+     fuentes de alimento o eviten áreas peligrosas.
+   * Implementa comportamientos de orientación, donde las especies busquen seguir una 
+     dirección específica, como la posición del sol o una fuente de calor.
+
+7. **Visualización interactiva:**
+   
+   * Controla la cámara para moverte libremente por el ecosistema y observar las interacciones 
+     entre las especies desde diferentes perspectivas.
+   * Agrega efectos visuales para representar los cambios en la energía, la salud y las 
+     interacciones entre las especies, lo que te ayudará a comprender mejor los cambios en 
+     tu ecosistema.
+
+8. **Interacción del usuario:**
+   
+   * Interactúa directamente con las especies utilizando el mouse para ``arrastrar`` o ``empujar`` a 
+     las especies en diferentes direcciones.
+   * Utiliza controles de teclado para ajustar los parámetros de las oscilaciones y fuerzas 
+     de resortes en tiempo real mientras tu simulación está en marcha.
+   * Explora la posibilidad de utilizar el audio como mecanismo de entrada para influir en 
+     la simulación mediante comandos de voz que afecten las oscilaciones o generen eventos 
+     específicos en tu ecosistema.
 
 Proyecto 2
 *************
