@@ -18,6 +18,10 @@ Generación procedural:
 * `CodeParade <https://www.youtube.com/@CodeParade/featured>`__.
 * How to Use the New `Simulation Nodes <https://youtu.be/RJbLiFTNHnI>`__ in Blender 3.6 LTS.
 
+cursos
+--------
+
+* Blender: `geometry nodes from scratch <https://studio.blender.org/training/geometry-nodes-from-scratch/>`__.
 
 Artistas
 ---------
