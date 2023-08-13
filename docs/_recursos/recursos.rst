@@ -16,6 +16,7 @@ Generación procedural:
 * `Artificial intelligence art <https://en.wikipedia.org/wiki/Artificial_intelligence_art>`__.
 * `Generative Art <https://cognitiveexperience.design/generative-art/>`__.
 * `CodeParade <https://www.youtube.com/@CodeParade/featured>`__.
+* How to Use the New `Simulation Nodes <https://youtu.be/RJbLiFTNHnI>`__ in Blender 3.6 LTS.
 
 
 Artistas
