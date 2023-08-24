@@ -103,6 +103,19 @@ Las evaluaciones de cada unidad se considerarán entregadas cuando:
   en los plazos siguientes. Luego del plazo 3 la nota quedará en 
   cero.
 
+========= ================= 
+Unidad    semana inicial
+========= ================= 
+Unidad 1  semana 1 
+Unidad 2  semana 2 
+Unidad 3  semana 3 
+Unidad 4  semana 4 
+Unidad 5  semana 6 
+Unidad 6  semana 7 
+Unidad 7  semana 8 
+Final:    semana 10 
+========= ================= 
+
 =========== =================  ================= ==================
 Evaluación  Plazo 1 (sobre 5)  Plazo 2 (sobre 5) Plazo 3 (sobre 4)
 =========== =================  ================= ================== 
