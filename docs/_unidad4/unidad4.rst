@@ -12,9 +12,9 @@ Proyecto 1
 *************
 
 Vas a continuar enriqueciendo el proyecto del ecosistema. A medida que avances con esta simulación 
-las historias de tu ecosistema de criaturas se harán más ricas. No olvides que tu una aplicación 
-interactiva en Ingeniería en Diseño de Entretenimiento Digital se queda corra si deja 
-de contar una historia, si no hay narrativa.
+las historias de tu ecosistema de criaturas se harán más ricas. No olvides que tu aplicación interactiva 
+en Ingeniería en Diseño de Entretenimiento Digital se queda corta si deja de contar una historia, si no 
+hay narrativa.
 
 Objetivo del proyecto
 ^^^^^^^^^^^^^^^^^^^^^^^^
