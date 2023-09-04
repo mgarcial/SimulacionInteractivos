@@ -17,6 +17,8 @@ Generación procedural:
 * `Generative Art <https://cognitiveexperience.design/generative-art/>`__.
 * `CodeParade <https://www.youtube.com/@CodeParade/featured>`__.
 * How to Use the New `Simulation Nodes <https://youtu.be/RJbLiFTNHnI>`__ in Blender 3.6 LTS.
+* `Procedural Animation for Humans <https://youtu.be/QdETstMgJO8?si=7YhM_AX6slgtAi2E>`__.
+
 
 cursos
 --------
@@ -132,6 +134,25 @@ Portafolios
 * `Brandon Hampton <https://www.bhamps.com/>`__.
 * `Luca Vonilo <https://lucavolino.com/>`__.
 
+Video references
+-----------------
+
+* `In My Room <https://youtu.be/7dSFMUcTuhU?si=AV9bAEysVxjdwSH8>`__ (Audio) - Jacob Collier.
+* `20 Best Music Videos that Story Tell -Narrative Music Video <https://youtube.com/playlist?list=PL1487B0A90D0B66E5&si=5Sw8PuraemjgboJI>`__.
+* Jacob Collier - Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer) [`Official Music Video <https://youtu.be/NMo4608Q-YM?si=295w5GO9O9VwauYT>`__].
+* SIAMÉS "Mr. FEAR" [`Official Animated Music Video <https://youtu.be/EKLWC93nvAU?si=olCX5dGjSKDABiJ6>`__].
+* `Animated Music Videos <https://youtube.com/playlist?list=PL5vdhFFAsayGulXn_5G1iBlGhdQ5BtZ_9&si=k1IxbIEKICzrkpNl>`__.
+* Audioreactive `Video <https://youtu.be/VAqvZENdOdU?si=ijhJ__CqP3H7-R8G>`__ Playhead - [TouchDesigner].
+* `Zach From Earth <https://www.youtube.com/@zachfromearth/videos>`__.
+* Touchdesigner Audioreactive `Visualizer <https://youtu.be/veyy7KHebbU?si=H8VoMjYY6R7SlCkR>`__ for Jeffrey 
+  Earl Kinart's song "Ridiculous".
+* INCREDIBLE ARTISTIC `MUSICVIDEOS <https://youtube.com/playlist?list=PLnSJ5Asp3wcm7lgdIJ-e_Tbh0Vfs9kIjN&si=rJkSOCiaDWKzCwJZ>`__.
+
+Audio
+-------
+
+* `Audio Signal Processing for Machine Learning <https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&si=ysMPWk94ejzKZdDc
+>`__.
 
 Ejemplos
 ------------
