@@ -18,8 +18,7 @@ Créditos y horas totales del curso: 2 créditos - 96 horas totales
    Unidad 3: Fuerzas <_unidad3/unidad3>
    Unidad 4: Oscilaciones <_unidad4/unidad4>
    Unidad 5: Sistemas de partículas <_unidad5/unidad5>
-   Recursos: Recursos Interesantes <_recursos/recursos>
-
-..
    Unidad 6: Componentes Físicos <_unidad6/unidad6>
+   Recursos: Recursos Interesantes <_recursos/recursos>
+..
    Unidad 7: Agentes autónomos <_unidad7/unidad7>
