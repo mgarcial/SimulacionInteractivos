@@ -151,8 +151,7 @@ Video references
 Audio
 -------
 
-* `Audio Signal Processing for Machine Learning <https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&si=ysMPWk94ejzKZdDc
->`__.
+* `Audio Signal Processing for Machine Learning <https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&si=ysMPWk94ejzKZdDc>`__.
 
 Ejemplos
 ------------
