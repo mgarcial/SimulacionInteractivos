@@ -18,7 +18,7 @@ Generación procedural:
 * `CodeParade <https://www.youtube.com/@CodeParade/featured>`__.
 * How to Use the New `Simulation Nodes <https://youtu.be/RJbLiFTNHnI>`__ in Blender 3.6 LTS.
 * `Procedural Animation for Humans <https://youtu.be/QdETstMgJO8?si=7YhM_AX6slgtAi2E>`__.
-
+* `Generative artistry <https://generativeartistry.com/>`__.
 
 cursos
 --------
