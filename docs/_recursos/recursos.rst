@@ -33,7 +33,9 @@ Artistas y diseñadores
 * `Tony DeRose <https://youtu.be/_IZMVMf4NQ0>`__.
 * `Tony DeRose <https://youtu.be/mX0NB9IyYpU>`__.
 * `Bruno Imbrizi <https://www.brunoimbrizi.com/about>`__.
-
+* `Matt deslauriers <https://www.mattdesl.com/>`__.
+* `Yi-Wen Lin (Wen) <https://yiwenl.github.io/>`__.
+* `Patrik Hübner <https://www.patrik-huebner.com/>`__.
 
 Libros
 --------
@@ -82,7 +84,8 @@ Sitios
 * `Interpolation and Control Systems <https://gamemath.com/gdc2021/>`__.
 * `Spring-It-On: The Game Developer's Spring-Roll-Call <https://theorangeduck.com/page/spring-roll-call>`__.
 * `Should I Write a Game Engine or use an Existing One? <https://pikuma.com/blog/why-make-a-game-engine>`__.
-
+* `Generative Design in Branding <https://www.patrik-huebner.com/how-to-use-generative-design-in-branding/>`__.
+* `Generative Design Method <https://www.patrik-huebner.com/method/>`__.
 
 Videos
 --------
