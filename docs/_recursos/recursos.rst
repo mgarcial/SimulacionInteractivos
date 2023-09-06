@@ -25,13 +25,15 @@ cursos
 
 * Blender: `geometry nodes from scratch <https://studio.blender.org/training/geometry-nodes-from-scratch/>`__.
 
-Artistas
----------
+Artistas y diseñadores
+-----------------------
 
 * `Casey Reas <https://reas.com/>`__.
 * `feralfile <https://feralfile.com/about>`__.
 * `Tony DeRose <https://youtu.be/_IZMVMf4NQ0>`__.
 * `Tony DeRose <https://youtu.be/mX0NB9IyYpU>`__.
+* `Bruno Imbrizi <https://www.brunoimbrizi.com/about>`__.
+
 
 Libros
 --------
