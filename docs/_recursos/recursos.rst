@@ -24,9 +24,10 @@ cursos
 --------
 
 * Blender: `geometry nodes from scratch <https://studio.blender.org/training/geometry-nodes-from-scratch/>`__.
+* `Get started making music <https://learningmusic.ableton.com/>`__.
 
-Artistas y diseñadores
------------------------
+Artistas, diseñadores, studios
+-------------------------------
 
 * `Casey Reas <https://reas.com/>`__.
 * `feralfile <https://feralfile.com/about>`__.
@@ -36,6 +37,8 @@ Artistas y diseñadores
 * `Matt deslauriers <https://www.mattdesl.com/>`__.
 * `Yi-Wen Lin (Wen) <https://yiwenl.github.io/>`__.
 * `Patrik Hübner <https://www.patrik-huebner.com/>`__.
+* `nowhere2run <https://www.nowhere2runproductions.com/>`__.
+
 
 Libros
 --------
@@ -152,6 +155,12 @@ Video references
 * Touchdesigner Audioreactive `Visualizer <https://youtu.be/veyy7KHebbU?si=H8VoMjYY6R7SlCkR>`__ for Jeffrey 
   Earl Kinart's song "Ridiculous".
 * INCREDIBLE ARTISTIC `MUSICVIDEOS <https://youtube.com/playlist?list=PLnSJ5Asp3wcm7lgdIJ-e_Tbh0Vfs9kIjN&si=rJkSOCiaDWKzCwJZ>`__.
+* `Scarypoolparty - Sun Moon Earth (Visualizer Video) <https://youtu.be/rvO39Y2692M?si=hqU95_9OIQxjCGPU>`__.
+* `String Theory (Music Visualization) <https://youtu.be/SZzehktUeko?si=zW8Fnank7H4rqxz3>`__.
+* `Music Visualizer - 3D audio spectrum visualizer made with Unity3D <https://youtu.be/GcddK4RMk_0?si=Mye0qaOyYbKT7d8O>`__.
+* `AI Manifest: The Most Beautiful Space Visualization on the Internet <https://youtu.be/zqXohGL36cw?si=5k6KLXT6geexFi3S>`__.
+* `Particle tests (15) 3D Music Visualizer <https://youtu.be/fpViZkhpPHk?si=7dCooKMfRzl7reoq>`__.
+
 
 Audio
 -------
