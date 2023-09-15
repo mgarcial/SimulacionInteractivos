@@ -35,7 +35,7 @@ de las capas (selección y dirección).
 
    Ejemplos de objetivos: buscar un objetivo, evita un obstáculo, sigue un camino.
 
-2. Dirección (steeringW): una vez que se ha seleccionado una acción, el vehículo 
+2. Dirección (steering): una vez que se ha seleccionado una acción, el vehículo 
    tiene que calcular su siguiente movimiento. Para nosotros, el próximo paso será una 
    fuerza; más específicamente, una fuerza de dirección.
 
