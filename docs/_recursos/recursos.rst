@@ -20,6 +20,15 @@ Generación procedural:
 * `Procedural Animation for Humans <https://youtu.be/QdETstMgJO8?si=7YhM_AX6slgtAi2E>`__.
 * `Generative artistry <https://generativeartistry.com/>`__.
 
+WebGL WebGPU
+--------------
+
+* `Introducing WebGPU <https://youtu.be/m6T-Mq1BPXg?si=nkdEfpjpsJGNA1sF>`__: 
+  Unlocking modern GPU access for JavaScript.
+* `Diseño WEB con programación visual en cables.gl <https://youtube.com/playlist?list=PLNiHKzKZc4rKfZvFNdPS6qCLjKN2OV29a&si=B2CbcZSob4YTnymi>`__.
+* `Play Canvas <https://playcanvas.com/>`__.
+* `Babylonjs <https://www.babylonjs.com/>`__. 
+
 cursos
 --------
 
