@@ -28,6 +28,13 @@ WebGL WebGPU
 * `Diseño WEB con programación visual en cables.gl <https://youtube.com/playlist?list=PLNiHKzKZc4rKfZvFNdPS6qCLjKN2OV29a&si=B2CbcZSob4YTnymi>`__.
 * `Play Canvas <https://playcanvas.com/>`__.
 * `Babylonjs <https://www.babylonjs.com/>`__. 
+* `WebGPU API <https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API>`__.
+* `WebGPU Tutorial <https://youtu.be/KTFFdZSDiTU?si=VM8ZE9XdkUU8ECP7>`__ - Advanced Graphics on the Web Course
+* `Practical Programming with Dr. Xu <https://www.youtube.com/@PracticalProgrammingwithDrXu/videos>`__.
+* `What's new with Web ML in 2023 <https://youtu.be/r7hOoCY6uGo?si=G2FcGgN-GzRl-3ni>`__.
+* `Webgpu samples <https://webgpu.github.io/webgpu-samples/>`__.
+* `Visual Blocks for ML <https://visualblocks.withgoogle.com/>`__.
+* `Google machine learning courses <https://ai.google/build/machine-learning>`__.
 
 cursos
 --------
