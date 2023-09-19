@@ -35,6 +35,7 @@ WebGL WebGPU
 * `Webgpu samples <https://webgpu.github.io/webgpu-samples/>`__.
 * `Visual Blocks for ML <https://visualblocks.withgoogle.com/>`__.
 * `Google machine learning courses <https://ai.google/build/machine-learning>`__.
+* `Your first WebGPU app <https://codelabs.developers.google.com/your-first-webgpu-app#0>`__.
 
 cursos
 --------
