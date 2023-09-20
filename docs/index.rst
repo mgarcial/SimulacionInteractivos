@@ -20,4 +20,5 @@ Créditos y horas totales del curso: 2 créditos - 96 horas totales
    Unidad 5: Sistemas de partículas <_unidad5/unidad5>
    Unidad 6: Componentes Físicos <_unidad6/unidad6>
    Unidad 7: Agentes autónomos <_unidad7/unidad7>
+   Unidad 8: Simulación final <_unidad8/unidad8>
    Recursos: Recursos Interesantes <_recursos/recursos>
