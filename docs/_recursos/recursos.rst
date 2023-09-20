@@ -33,9 +33,14 @@ WebGL y WebGPU
 * `Webgpu samples <https://webgpu.github.io/webgpu-samples/>`__.
 * `Your first WebGPU app <https://codelabs.developers.google.com/your-first-webgpu-app#0>`__.
 * `Practical Programming with Dr. Xu <https://www.youtube.com/@PracticalProgrammingwithDrXu/videos>`__.
+
+Web ML
+----------------
+
 * `What's new with Web ML in 2023 <https://youtu.be/r7hOoCY6uGo?si=G2FcGgN-GzRl-3ni>`__.
 * `Visual Blocks for ML <https://visualblocks.withgoogle.com/>`__.
 * `Google machine learning courses <https://ai.google/build/machine-learning>`__.
+* `Machine Learning for Web Developers (Web ML) <https://youtube.com/playlist?list=PLOU2XLYxmsILr3HQpqjLAUkIPa5EaZiui&si=_YoTv7bfW9ZHvShV>`__
 
 cursos
 --------
