@@ -20,8 +20,8 @@ Generación procedural:
 * `Procedural Animation for Humans <https://youtu.be/QdETstMgJO8?si=7YhM_AX6slgtAi2E>`__.
 * `Generative artistry <https://generativeartistry.com/>`__.
 
-WebGL WebGPU
---------------
+WebGL y WebGPU
+----------------
 
 * `Introducing WebGPU <https://youtu.be/m6T-Mq1BPXg?si=nkdEfpjpsJGNA1sF>`__: 
   Unlocking modern GPU access for JavaScript.
@@ -30,12 +30,12 @@ WebGL WebGPU
 * `Babylonjs <https://www.babylonjs.com/>`__. 
 * `WebGPU API <https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API>`__.
 * `WebGPU Tutorial <https://youtu.be/KTFFdZSDiTU?si=VM8ZE9XdkUU8ECP7>`__ - Advanced Graphics on the Web Course
+* `Webgpu samples <https://webgpu.github.io/webgpu-samples/>`__.
+* `Your first WebGPU app <https://codelabs.developers.google.com/your-first-webgpu-app#0>`__.
 * `Practical Programming with Dr. Xu <https://www.youtube.com/@PracticalProgrammingwithDrXu/videos>`__.
 * `What's new with Web ML in 2023 <https://youtu.be/r7hOoCY6uGo?si=G2FcGgN-GzRl-3ni>`__.
-* `Webgpu samples <https://webgpu.github.io/webgpu-samples/>`__.
 * `Visual Blocks for ML <https://visualblocks.withgoogle.com/>`__.
 * `Google machine learning courses <https://ai.google/build/machine-learning>`__.
-* `Your first WebGPU app <https://codelabs.developers.google.com/your-first-webgpu-app#0>`__.
 
 cursos
 --------
