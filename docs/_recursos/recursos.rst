@@ -60,6 +60,7 @@ Artistas, diseñadores, studios
 * `Yi-Wen Lin (Wen) <https://yiwenl.github.io/>`__.
 * `Patrik Hübner <https://www.patrik-huebner.com/>`__.
 * `nowhere2run <https://www.nowhere2runproductions.com/>`__.
+* `Tim Rodenbröker <https://timrodenbroeker.de/>`__.
 
 
 Libros
@@ -346,4 +347,79 @@ Te dejo una parte del código para que veas que no están compleja la cosa.
             line.SetPosition(i, transform.position + new Vector3(x0, y0, z0));
         }
     }
+
+
+¿Qué es la programación creativa?
+**********************************
+
+Tomado de `este <https://timrodenbroeker.de/>`__ sitio:
+
+Creative Coding is a process, based on exploration, iteration, reflection and discovery, where
+code is used as the primary medium to create a wide range of media artifacts.
+
+MARK MITCHELL, OLIVER C. BOWN: TOWARDS A CREATIVITY SUPPORT TOOL IN PROCESSING. UNDERSTANDING 
+THE NEEDS OF CREATIVE CODERS. ACM PRESS 2013, PAGE 143–146, CITED ACCORDING TO: 
+STIG MØLLER HANSEN: PUBLIC CLASS GRAPHIC_DESIGN IMPLEMENTS CODE {//YES, BUT HOW?}: 
+AN INVESTIGATION TOWARDS BESPOKE CREATIVE CODING PROGRAMMING COURSES IN GRAPHIC DESIGN EDUCATION, 
+AARHUS 2019, PAGE 13. LINK
+
+Según ChatGPT plus (septiembre 20 de 2023):
+
+Creative coding refers to the use of computer programming as a means to produce artistic outputs. 
+It's a form of digital art where the emphasis is on the creative process and exploration, 
+rather than just creating functional software. Creative coding often involves the generation of 
+visuals, sound, animation, physical computing, and interactivity.
+
+Dos herramientas para explorar:
+
+* p5.js - A JavaScript library that has its roots in Processing. It's designed to make coding 
+  accessible for artists, designers, educators, and beginners.
+* TouchDesigner - A node-based visual programming language primarily used for real-time interactive 
+  multimedia content.
+
+The creative coding community often participates in "live coding" events, where artists code 
+in real-time to produce visuals and/or music, usually in front of an audience. These performances 
+showcase the artistic and improvisational aspects of programming.
+
+In essence, creative coding is about bridging the gap between art and technology, allowing 
+artists to harness the power of computation in their artistic pursuits.
+
+There's a significant relationship between generative content generation and creative coding. 
+In fact, generative methods are often a cornerstone of many creative coding projects. 
+Here's a breakdown of the relationship:
+
+**Definition of Generative Content Generation:** 
+
+This refers to the automated creation of content (like images, music, stories, or patterns) 
+based on a set of predefined rules, algorithms, or stochastic processes. The key principle 
+behind generative content is that the output is not directly authored by a human, but rather is 
+produced by a system designed by a human. The same generative system can produce a wide variety 
+of different outputs, often surprising even its creator.
+
+**Creative Coding and Generative Content:** 
+
+Many creative coding projects involve building systems that produce generative content. The 
+creativity comes into play when designing the algorithms or rules that drive the generation. 
+For instance, a creative coder might design an algorithm that simulates the growth of plants 
+to generate digital artwork that looks like a forest.
+
+**Applications:**
+
+* Visual Arts: Patterns, fractals, and generative adversarial networks (GANs) might be used to 
+  create unique pieces of artwork.
+* Music: Algorithms can be designed to produce melodies, rhythms, or entire compositions.
+* Interactive Installations: Creative coding can be used to create installations where the output 
+  (visuals, sounds) evolves based on user interaction or other inputs.
+* Animation and Motion Graphics: Generative methods can produce fluid, organic, or abstract animations.
+* Design: Patterns for textiles, wallpapers, or graphical elements can be algorithmically generated.
+* Live Coding: In live coding performances, artists often employ generative methods. The code they 
+  write in real-time sets up systems and processes that generate music or visuals, adding an element 
+  of unpredictability and spontaneity to the performance.
+* Exploration and Serendipity: One of the joys of generative content in creative coding is the 
+  sense of exploration. Since the output is determined by algorithms and sometimes random processes, 
+  even the creator may be surprised by the results. This serendipity can lead to delightful and 
+  unexpected artistic outcomes.
+
+In summary, generative content generation is a major facet of creative coding. By designing systems 
+and algorithms, creative coders can produce a vast array of unique and unpredictable artistic outputs.
 
