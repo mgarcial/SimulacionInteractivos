@@ -42,6 +42,12 @@ Web ML
 * `Google machine learning courses <https://ai.google/build/machine-learning>`__.
 * `Machine Learning for Web Developers (Web ML) <https://youtube.com/playlist?list=PLOU2XLYxmsILr3HQpqjLAUkIPa5EaZiui&si=_YoTv7bfW9ZHvShV>`__
 
+Tools
+-------
+
+* `Textfx <https://textfx.withgoogle.com/>`__.
+* `AutoDraw <https://www.autodraw.com/>`__.
+
 cursos
 --------
 
