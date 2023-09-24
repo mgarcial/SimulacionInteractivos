@@ -196,6 +196,16 @@ Audio
 
 * `Audio Signal Processing for Machine Learning <https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&si=ysMPWk94ejzKZdDc>`__.
 
+StoryTelling 
+---------------
+
+* `Word as Image <https://youtube.com/playlist?list=PLRTCqZ12WNaCWu43EZ2Cg_Micos0QDshf&si=Jsnl-G1Iqh7Rusf7>`__.
+* `Word as Image by Ji Lee <https://pleaseenjoy.com/#/word-as-image/>`__.
+* `2015 Word as Image Highlights <https://youtu.be/qkrlKXyLWYI?si=RfsZtv1n2dYEDxYG>`__.
+* `Word As Image for Semantic Typography <https://wordasimage.github.io/Word-As-Image-Page/>`__.
+* `DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion <https://ds-fusion.github.io/>`__.
+
+
 Ejemplos
 ------------
 
