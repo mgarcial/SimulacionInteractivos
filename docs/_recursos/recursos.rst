@@ -22,7 +22,7 @@ Generación procedural:
 * `Generative Art Guide <https://aiartists.org/generative-art-design>`__.
 * `The Procedural Animation of Gibbon: Beyond the Trees - Wolfire Games <https://youtu.be/KCKdGlpsdlo?si=sqlHs2EpPVSxkb-K>`__.
 
-WebGL y WebGPU
+WebGPU
 ----------------
 
 * `Introducing WebGPU <https://youtu.be/m6T-Mq1BPXg?si=nkdEfpjpsJGNA1sF>`__: 
@@ -35,6 +35,7 @@ WebGL y WebGPU
 * `Webgpu samples <https://webgpu.github.io/webgpu-samples/>`__.
 * `Your first WebGPU app <https://codelabs.developers.google.com/your-first-webgpu-app#0>`__.
 * `Practical Programming with Dr. Xu <https://www.youtube.com/@PracticalProgrammingwithDrXu/videos>`__.
+* `WebGPU :: Rendering the future in Real-Time <https://youtu.be/YinfynTz77s?si=_JXcVRF7yz2QrNtY>`__.
 
 Web ML
 ----------------
@@ -79,6 +80,13 @@ Libros
 * `Basic Math for Game Development with Unity 3D <https://link.springer.com/book/10.1007/978-1-4842-5443-1#toc>`__.
 * `Computational Geometry: Algorithms and Applications <https://www.amazon.com/Computational-Geometry-Applications-Mark-Berg/dp/3540779736/>`__.
 * `3D Math Primer for Graphics and Game Development <https://gamemath.com/book/intro.html>`__.
+* `The Unity Shaders Bible <https://www.jettelly.com/books/unity-shaders-bible/>`__.
+* `Generative Design: Visualize, Program, and Create with JavaScript in p5.js <https://www.amazon.com/Generative-Design-Visualize-Program-JavaScript/dp/1616897589>`__.
+* `Generative Design, Creative Coding on the Web <http://www.generative-gestaltung.de/2/>`__.
+* `Generative Design Code Package (for P5.js) <https://github.com/generative-design/Code-Package-p5.js>`__.
+* `The nature of code 2 <https://nature-of-code-2nd-edition.netlify.app/>`__.
+* `The Book of Shaders <https://thebookofshaders.com/>`__.
+* `Programming Design Systems <https://programmingdesignsystems.com/>`__.
 
 Math
 ------
