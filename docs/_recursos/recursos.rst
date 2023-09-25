@@ -19,6 +19,8 @@ Generación procedural:
 * How to Use the New `Simulation Nodes <https://youtu.be/RJbLiFTNHnI>`__ in Blender 3.6 LTS.
 * `Procedural Animation for Humans <https://youtu.be/QdETstMgJO8?si=7YhM_AX6slgtAi2E>`__.
 * `Generative artistry <https://generativeartistry.com/>`__.
+* `Generative Art Guide <https://aiartists.org/generative-art-design>`__.
+* `The Procedural Animation of Gibbon: Beyond the Trees - Wolfire Games <https://youtu.be/KCKdGlpsdlo?si=sqlHs2EpPVSxkb-K>`__.
 
 WebGL y WebGPU
 ----------------
@@ -67,6 +69,8 @@ Artistas, diseñadores, studios
 * `Patrik Hübner <https://www.patrik-huebner.com/>`__.
 * `nowhere2run <https://www.nowhere2runproductions.com/>`__.
 * `Tim Rodenbröker <https://timrodenbroeker.de/>`__.
+* `Thomas Latvys <https://www.instagram.com/thomaslatvys/reels/>`__.
+* `Entagma <https://entagma.com/>`__.
 
 
 Libros
@@ -118,6 +122,7 @@ Sitios
 * `Should I Write a Game Engine or use an Existing One? <https://pikuma.com/blog/why-make-a-game-engine>`__.
 * `Generative Design in Branding <https://www.patrik-huebner.com/how-to-use-generative-design-in-branding/>`__.
 * `Generative Design Method <https://www.patrik-huebner.com/method/>`__.
+* `handwrytten <https://www.handwrytten.com/>`__. 
 
 Videos
 --------
@@ -204,6 +209,17 @@ StoryTelling
 * `2015 Word as Image Highlights <https://youtu.be/qkrlKXyLWYI?si=RfsZtv1n2dYEDxYG>`__.
 * `Word As Image for Semantic Typography <https://wordasimage.github.io/Word-As-Image-Page/>`__.
 * `DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion <https://ds-fusion.github.io/>`__.
+
+Thrends 
+--------
+
+* `Motion Graphics Trends [2023] <https://www.youtube.com/watch?v=W2ib79OoK2k>`__.
+
+Papers
+--------
+
+* `Advanced Character Physics <https://github.com/juanferfranco/SimulacionInteractivos/tree/main/docs/_static/Jakobsen.pdf>`__. Thomas Jakobsen.
+
 
 
 Ejemplos
