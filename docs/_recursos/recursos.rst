@@ -50,6 +50,9 @@ Tools
 
 * `Textfx <https://textfx.withgoogle.com/>`__.
 * `AutoDraw <https://www.autodraw.com/>`__.
+* `Cables <https://cables.gl/>`__.
+* `Effect House Tik Tok realidad aumentada <https://effecthouse.tiktok.com/>`__.
+* `Meta Spark ralidad aumentada <https://spark.meta.com/>`__.
 
 cursos
 --------
