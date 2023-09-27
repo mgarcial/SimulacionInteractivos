@@ -54,7 +54,7 @@ Tools
 * `Effect House Tik Tok realidad aumentada <https://effecthouse.tiktok.com/>`__.
 * `Meta Spark ralidad aumentada <https://spark.meta.com/>`__.
 
-cursos
+Cursos
 --------
 
 * Blender: `geometry nodes from scratch <https://studio.blender.org/training/geometry-nodes-from-scratch/>`__.
