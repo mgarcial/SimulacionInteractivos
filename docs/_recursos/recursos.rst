@@ -205,7 +205,7 @@ Video references
 * `Music Visualizer - 3D audio spectrum visualizer made with Unity3D <https://youtu.be/GcddK4RMk_0?si=Mye0qaOyYbKT7d8O>`__.
 * `AI Manifest: The Most Beautiful Space Visualization on the Internet <https://youtu.be/zqXohGL36cw?si=5k6KLXT6geexFi3S>`__.
 * `Particle tests (15) 3D Music Visualizer <https://youtu.be/fpViZkhpPHk?si=7dCooKMfRzl7reoq>`__.
-
+* `JAMES JAMERSON /// Ain't No Mountain High Enough <https://youtu.be/kAT3aVj-A_E?si=T2LAuhCQmWc7EKDF>`__.
 
 Audio
 -------
@@ -231,6 +231,10 @@ Papers
 
 * `Advanced Character Physics <https://github.com/juanferfranco/SimulacionInteractivos/tree/main/docs/_static/Jakobsen.pdf>`__. Thomas Jakobsen.
 
+Data Viz 
+---------
+
+* `The Art of Data Visualization <https://youtu.be/AdSZJzb-aX8?si=B3rtWKJRxK-tapS0>`__ | Off Book | PBS Digital Studios
 
 
 Ejemplos
