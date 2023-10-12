@@ -36,6 +36,10 @@ WebGPU
 * `Your first WebGPU app <https://codelabs.developers.google.com/your-first-webgpu-app#0>`__.
 * `Practical Programming with Dr. Xu <https://www.youtube.com/@PracticalProgrammingwithDrXu/videos>`__.
 * `WebGPU :: Rendering the future in Real-Time <https://youtu.be/YinfynTz77s?si=_JXcVRF7yz2QrNtY>`__.
+* `Modern 3D Graphics Beginner Projects in WebGPU <https://shrekshao.github.io/3d-graphics-beginner-projects/>`__.
+* `Learn WebGPU – A next-generation graphics API for the web <https://www.freecodecamp.org/news/learn-webgpu-a-next-generation-graphics-api-for-the-web>`__.
+* `Awesome WebGPU <https://github.com/mikbry/awesome-webgpu>`__.
+* `Unlock the Potential of AI and Immersive Web Applications with WebGPU <https://www.intel.com/content/www/us/en/developer/articles/technical/unlock-potential-ai-immersive-web-apps-with-webgpu.html>`__.  
 
 Web ML
 ----------------
