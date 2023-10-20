@@ -20,8 +20,10 @@ Enunciado
 ***********
 
 1. Vas a seleccionar un tema musical que te guste mucho.
-2. Tu misión será diseñar e implementar un ``video procedural interactivo``
-   de tu tema musical.
+2. Tu misión será diseñar e implementar una aplicación interactiva que permita 
+   capturar un ``video del tema musical`` aplicando las técnicas vistas en el curso 
+   para resolver los problemas de diseño y narrativos que te encontrarás al materializar 
+   tu visión creativa.
 3. ES MUY IMPORTANTE la narrativa. Incorpora elementos narrativos 
    en la simulación. Recuerda que durante el semestre practicaste  
    con cada unidad este asunto.
