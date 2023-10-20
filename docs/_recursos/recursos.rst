@@ -215,7 +215,7 @@ Audio
 -------
 
 * `Audio Signal Processing for Machine Learning <https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&si=ysMPWk94ejzKZdDc>`__.
-* ˋReal-time Audio Analysis Using the Unity API <https://medium.com/@jesse_87798/6e9595823ce4>ˋ__.  
+* `Real-time Audio Analysis Using the Unity API <https://medium.com/@jesse_87798/6e9595823ce4>`__.
 
 StoryTelling 
 ---------------
