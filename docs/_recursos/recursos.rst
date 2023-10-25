@@ -240,7 +240,7 @@ Data Viz
 ---------
 
 * `The Art of Data Visualization <https://youtu.be/AdSZJzb-aX8?si=B3rtWKJRxK-tapS0>`__ | Off Book | PBS Digital Studios
-
+* `Data art <https://youtu.be/23o6I3x6Cbw?si=q5ZuWFgM0cCjJQnD>`__.
 
 Ejemplos
 ------------
