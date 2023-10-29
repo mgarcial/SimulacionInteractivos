@@ -91,6 +91,10 @@ html_theme = 'sphinx_book_theme'
 # documentation.
 #
 
+html_context = {
+   "default_mode": "dark"
+}
+
 html_theme_options = {
     "navigation_with_keys" : False,
     "use_source_button": True,
@@ -101,7 +105,7 @@ html_theme_options = {
     "path_to_docs": "docs",
     "repository_branch": "main",
     "repository_provider": "github",
-     "use_download_button": False,
+     "use_download_button": False
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -109,6 +113,7 @@ html_theme_options = {
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 html_css_files = ['custom.css']
+html_js_files = ['set_dark_theme.js']
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
