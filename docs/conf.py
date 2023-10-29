@@ -76,7 +76,7 @@ pygments_style = 'sphinx'
 #
 
 
-html_logo = "_static/logo.png"
+# html_logo = "_static/logo.png"
 html_title = "Simulación para Sistemas Interactivos"
 html_favicon = "_static/logo.png"
 
@@ -105,7 +105,11 @@ html_theme_options = {
     "path_to_docs": "docs",
     "repository_branch": "main",
     "repository_provider": "github",
-     "use_download_button": False
+    "use_download_button": False,
+    "logo": {
+      "image_light": "_static/logo_light.svg",
+      "image_dark": "_static/logo_dark.svg",
+    }
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,

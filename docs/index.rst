@@ -1,11 +1,15 @@
 Simulación para Sistemas Interactivos 2023-20
 =====================================================
 
-Docente diseñador del curso: Juan Fernando Franco Higuita
+Docente diseñador del curso: Juan Fernando Franco Higuita  
 
-Nombre del docente moderador: Juan Fernando Franco Higuita
+Nombre del docente moderador: Juan Fernando Franco Higuita  
 
 Créditos y horas totales del curso: 2 créditos - 96 horas totales 
+
+.. image:: _static/logo.png
+   :alt: logo
+   :scale: 50%
 
 .. toctree::
    :maxdepth: 1
