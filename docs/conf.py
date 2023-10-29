@@ -26,7 +26,7 @@ author = 'Juan Franco'
 # The short X.Y version
 version = '0.2.0'
 # The full version, including alpha/beta/rc tags
-release = 'beta'
+release = '2023-20'
 
 
 # -- General configuration ---------------------------------------------------
@@ -74,21 +74,41 @@ pygments_style = 'sphinx'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
+
+
+html_logo = "_static/logo.png"
+html_title = "Simulación para Sistemas Interactivos"
+html_favicon = "_static/logo.png"
+
 # html_theme = 'sphinx_rtd_theme'
 html_theme = 'sphinx_book_theme'
 # html_theme = 'sphinx_material'
 # html_theme = 'furo'
+# html_theme = 'pydata_sphinx_theme'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-# html_theme_options = {}
+
+html_theme_options = {
+    "navigation_with_keys" : False,
+    "use_source_button": True,
+    "use_edit_page_button": True,
+    "use_sidenotes": True,
+    "toc_title": "Contenido de esta página",
+    "repository_url": "https://github.com/juanferfranco/SimulacionInteractivos/",
+    "path_to_docs": "docs",
+    "repository_branch": "main",
+    "repository_provider": "github",
+     "use_download_button": False,
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+html_css_files = ['custom.css']
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.

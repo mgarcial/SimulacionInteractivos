@@ -7,7 +7,6 @@ Nombre del docente moderador: Juan Fernando Franco Higuita
 
 Créditos y horas totales del curso: 2 créditos - 96 horas totales 
 
-      
 .. toctree::
    :maxdepth: 1
    :caption: SECCIONES
