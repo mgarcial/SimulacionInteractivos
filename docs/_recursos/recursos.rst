@@ -364,7 +364,7 @@ Primero quiero que veas `este <https://youtu.be/uOHkeH2VaE0>`__ video.
 Ahora escucha `el tema <https://youtu.be/7zEMFt4I8k0>`__ con una animación construida 
 en Unity utilizando un `atractor de Lorenz <https://en.wikipedia.org/wiki/Lorenz_system>`__.
 
-Te dejo una parte del código para que veas que no están compleja la cosa.
+Te dejo una parte del código para que veas que no está compleja la cosa.
 
 .. code-block:: csharp
 
