@@ -241,6 +241,7 @@ Data Viz
 
 * `The Art of Data Visualization <https://youtu.be/AdSZJzb-aX8?si=B3rtWKJRxK-tapS0>`__ | Off Book | PBS Digital Studios
 * `Data art <https://youtu.be/23o6I3x6Cbw?si=q5ZuWFgM0cCjJQnD>`__.
+* `Data art tutorials with cables.gl <https://youtube.com/playlist?list=PLqebJ3CSuDa_keY_P87d1cr740qH4cT0E&si=AI7yqorvd_mNPYbs>`__.
 
 Ejemplos
 ------------
