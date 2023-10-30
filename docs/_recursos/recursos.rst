@@ -245,6 +245,13 @@ Data Viz
 * `Data art <https://youtu.be/23o6I3x6Cbw?si=q5ZuWFgM0cCjJQnD>`__.
 * `Data art tutorials with cables.gl <https://youtube.com/playlist?list=PLqebJ3CSuDa_keY_P87d1cr740qH4cT0E&si=AI7yqorvd_mNPYbs>`__.
 
+Games
+-------
+
+* `Create a 3D Multi-player Game using THREE.js and SOCKET.io <https://youtube.com/playlist?list=PLcTpn5-ROA4yXDPO4o38q9JLlJtu3EUMj&si=2_3aW3EfNsrbR0zC>`__.
+* `Making the same game in threeJS and Unity <https://youtu.be/r6ZvU2U-DB0?si=vcRnCVJ7AfqYzmxt>`__.
+
+
 Ejemplos
 ------------
 
