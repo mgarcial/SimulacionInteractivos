@@ -190,6 +190,24 @@ Portafolios
 *  `Dennis Snellenberg <https://dennissnellenberg.com/>`__.
 * `Brandon Hampton <https://www.bhamps.com/>`__.
 * `Luca Vonilo <https://lucavolino.com/>`__.
+* `Greg Koberger <https://gkoberger.com/>`__.
+* `Paco Coursey <https://paco.me/>`__.
+* `Rauno Freiberg <https://rauno.me/>`__.
+* `Naxo <https://naxo.dev/>`__.
+* `Jesse Zhou <https://jesse-zhou.com/>`__.
+* `Bruno Simon <https://bruno-simon.com/>`__.
+* `Alex Pierce <https://www.behance.net/alexpierce/moodboards>`__.
+* `Alex Pierce <http://thegeekdesigner.com/>`__.
+* `embed <https://astolfo.co/>`__.
+* `Anthony Fu <https://antfu.me/_>`__.
+* `Niccolo Miranda <https://www.niccolomiranda.com/>`__.
+* `Gass Zone <https://www.gass.zone/>`__.
+* `Minh Pham <https://minhpham.design/>`__.
+* `Grabriel Bianchi <https://www.gabrielbianchi.com/>`__.
+* `Guillaume Reygner <https://guillaumereygner.fr/>`__. 
+* `dan abramov <https://danabra.mov/>`__.
+* `Edan Kwan <https://edankwan.com/>`__.
+
 
 Video references
 -----------------
