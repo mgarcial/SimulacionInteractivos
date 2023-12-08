@@ -284,6 +284,19 @@ p5.js
 * `WebGL - p5.js Tutorial <https://youtube.com/playlist?list=PLRqwX-V7Uu6bPhi8sS1hHJ77n3zRO9FR_&si=r5Qma-lD_5eo0AL6>`__.
 * `Topics of JavaScript/ES6-ES8 - p5.js Tutorial <https://youtube.com/playlist?list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr&si=8Pt5m8NXsYuNYnls>`__.
 
+SDF 
+-----
+
+* `I Made A Blob Shooting Game With Ray Marching <https://youtu.be/9wZL2RzBQyE?si=brmvkHPOS8Xh921a>`__.
+
+Live 
+-----
+
+* `MAking of – Ed Sheeran Mathematics Tour Mark Cunniffe and Matt Jones <https://youtu.be/hEMQ9fZnbTU?si=ZOPKuTY9KO3OTwkM>`__.
+* `David Guetta Live on GrandMA2 | Lightshow <https://youtu.be/TrIYm1E4QIE?si=L0YmTLWI5kklg7zd>`__.
+
+
+
 Ejemplos
 ------------
 
