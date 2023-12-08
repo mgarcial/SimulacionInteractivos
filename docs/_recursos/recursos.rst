@@ -40,6 +40,7 @@ WebGPU
 * `Learn WebGPU – A next-generation graphics API for the web <https://www.freecodecamp.org/news/learn-webgpu-a-next-generation-graphics-api-for-the-web>`__.
 * Muchos enlaces a cosas interesantes de Web GPU:  `Awesome WebGPU <https://github.com/mikbry/awesome-webgpu>`__.
 * `Unlock the Potential of AI and Immersive Web Applications with WebGPU <https://www.intel.com/content/www/us/en/developer/articles/technical/unlock-potential-ai-immersive-web-apps-with-webgpu.html>`__.  
+* `WebGPU :: Javascript at the speed of Light <https://youtu.be/oAwlk0j5RUM?si=0Wv9EaQGjGRNSn8Z>`__.
 
 Web ML
 ----------------
