@@ -41,6 +41,14 @@ WebGPU
 * Muchos enlaces a cosas interesantes de Web GPU:  `Awesome WebGPU <https://github.com/mikbry/awesome-webgpu>`__.
 * `Unlock the Potential of AI and Immersive Web Applications with WebGPU <https://www.intel.com/content/www/us/en/developer/articles/technical/unlock-potential-ai-immersive-web-apps-with-webgpu.html>`__.  
 * `WebGPU :: Javascript at the speed of Light <https://youtu.be/oAwlk0j5RUM?si=0Wv9EaQGjGRNSn8Z>`__.
+* `WebGPU from WebGL <https://webgpufundamentals.org/webgpu/lessons/webgpu-from-webgl.html>`__.
+* `WebGPU Fundamentals <https://webgpufundamentals.org/webgpu/lessons/webgpu-fundamentals.html>`__.
+* `WebGPU Compute Shader Basics <https://webgpufundamentals.org/webgpu/lessons/webgpu-compute-shaders.html>`__.
+* `WebGPU — All of the cores, none of the canvas <https://surma.dev/things/webgpu/>`__.
+* `Get started with GPU Compute on the web <https://developer.chrome.com/docs/capabilities/web-apis/gpu-compute>`__.
+* `How to Build a Compute Rasterizer with WebGPU <https://github.com/OmarShehata/webgpu-compute-rasterizer/blob/main/how-to-build-a-compute-rasterizer.md>`__.
+* 
+
 
 Web ML
 ----------------
@@ -270,6 +278,11 @@ Games
 * `Create a 3D Multi-player Game using THREE.js and SOCKET.io <https://youtube.com/playlist?list=PLcTpn5-ROA4yXDPO4o38q9JLlJtu3EUMj&si=2_3aW3EfNsrbR0zC>`__.
 * `Making the same game in threeJS and Unity <https://youtu.be/r6ZvU2U-DB0?si=vcRnCVJ7AfqYzmxt>`__.
 
+p5.js
+------
+
+* `WebGL - p5.js Tutorial <https://youtube.com/playlist?list=PLRqwX-V7Uu6bPhi8sS1hHJ77n3zRO9FR_&si=r5Qma-lD_5eo0AL6>`__.
+* `Topics of JavaScript/ES6-ES8 - p5.js Tutorial <https://youtube.com/playlist?list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr&si=8Pt5m8NXsYuNYnls>`__.
 
 Ejemplos
 ------------
