@@ -1,6 +1,14 @@
 Introducción al curso
 =======================
 
+
+Carta descriptiva
+--------------------
+
+Por favor consulta la carta descriptiva en el sistema de la Universidad. Te voy a 
+mostrar aquí los puntos más importantes de ese documento.
+
+
 Descripción del curso
 ----------------------
 
@@ -14,13 +22,20 @@ agentes autónomos.
 ¿Para qué sirve este curso?
 -----------------------------
 
-Se espera que al finalizar el curso el estudiante sea capaz de construir aplicaciones 
+Se espera que al finalizar el curso seas capaz de construir aplicaciones 
 interactivas que integren contenidos digitales seleccionado, de manera argumentada 
 (nivel autónomo), conceptos de matemáticas y física apropiados según los requisitos del 
 problema a solucionar. 
 
-Competencias a las que aporta el curso
----------------------------------------
+Resultado de aprendizaje general al que aporta el curso
+---------------------------------------------------------
+
+Soluciono problemas de interacción mediante la integración de contenidos digitales y software 
+de acuerdo con un diseño previo, para la implementación de sistemas intermediados por el entretenimiento digital. 
+
+
+Competencia a la que aporta el curso
+*****************************************
 
 La competencia a la que aporta el curso es del ciclo profesional del programa y pertenece 
 al área de materialización de experiencias:
@@ -28,8 +43,8 @@ al área de materialización de experiencias:
 Materializa sistemas intermediados por el entretenimiento digital para resolver problemas 
 de acuerdo con requerimientos condicionados por el contexto.
 
-Resultados de aprendizaje
----------------------------
+Resultados de aprendizaje específico al que aporta el curso
+***************************************************************
 
 Integro contenidos digitales para la elaboración de sistemas interactivos mediante herramientas, 
 métodos y lenguajes de programación de manera creativa, eficiente, efectiva y ordenada.
@@ -52,97 +67,51 @@ Vas a evidenciar el nivel resolutivo del resultado de aprendizaje:
 
 Vas a evidenciar el nivel autónomo del resultado de aprendizaje:
 
-* Mediante la solución de un problema para el cual tu tendrás que 
+* Mediante la solución de problemas para los cuales tu tendrás que 
   seleccionar y argumentar los conceptos que aplicarás.
 
-¿Qué tendrás que entregar?
--------------------------------------------------------
+Contenidos a revisar
+-----------------------
 
-Para el nivel resolutivo del resultado de aprendizaje te pediré 
-que entregues en un repositorio de GitHub que yo te daré:
+* Unidad 1: caminatas aleatorias, probabilidad y distribuciones no uniformes, 
+  distribución normal de números aleatorios, distribución personalizada de 
+  números aleatorios: vuelo de Lévy, método de Monte Carlo, ruido Perlin.
+* Unidad 2: concepto de vector, matemáticas vectoriales, magnitud del vector, 
+  velocidad, aceleración, funciones estáticas y no estáticas, 
+  interactividad con aceleración.
+* Unidad 3: fuerzas y leyes de movimiento de Newton, segunda ley de Newton 
+  como función, acumulación de fuerzas, fuerzas y leyes de movimiento de Newton, 
+  creación de fuerzas, gravedad en la Tierra y modelado de una fuerza, fricción, 
+  resistencia del aire y de un fluido, atracción gravitacional.
+* Unidad 4: ángulos, movimiento angular, trigonometría, apuntar en la 
+  dirección del movimiento, coordenadas polares vs. coordenadas cartesianas, 
+  amplitud y periodo de oscilación, oscilación con velocidad angular, ondas, 
+  trigonometría y fuerzas: el péndulo, fuerzas de resorte.
+* Unidad 5: por qué necesitamos sistemas de partículas, una sola partícula, 
+  sistema de sistemas, rastros de partículas, herencia y polimorfismos, fuerzas.
+* Unidad 6: fuerzas desde adentro, vehículos y dirección, campos de flujo, paths, 
+  sistemas complejos.
+* Unidad 7: biblioteca de físicas.
+* Unidad 8: proyecto final.
 
-* La solución del problema con el proyecto de Unity y el código.
-* Un enlace a YouTube con un video PÚBLICO o NO LISTADO que 
-  muestre (sin explicación) la solución del problema.
-* Un archivo README.md de cada problema con una explicación 
-  breve donde indicarás en que parte del proyecto aplicaste 
-  el concepto de matemática y/o física y cómo solucionaste 
-  el problema planteado.
-
-Para el nivel autónomo del resultado de aprendizaje te pediré 
-que entregues en un repositorio de GitHub que yo te daré:
-
-* La solución del problema con el proyecto de Unity y el código.
-* Un enlace a YouTube con un video PÚBLICO o NO LISTADO que 
-  muestre (sin explicación) la solución del problema.
-* En el archivo README.md del proyecto final una explicación  
-  breve donde indicarás qué conceptos de matemática y/o física de 
-  cada unidad aplicaste y cómo solucionaste con cada uno de ellos 
-  el problema del proyecto final.
-* Un enlace a la entrada de tu portafolio con cada uno de los elementos 
-  anteriores conectados usando la narrativa de tu elección.
-
-¿Cuándo se considera entregada cada evaluación?
--------------------------------------------------------
-
-Las evaluaciones de cada unidad se considerarán entregadas cuando:
-
-* Cumplas al 100% cada uno de los items solicitados
-* Le presentes a TU PROFESOR la evidencia y él te de el visto 
-  bueno. Si el profesor no te da el visto bueno quiere decir que 
-  debes mejorar algún aspecto.
-
-¿Plazos para entregar las evaluaciones?
--------------------------------------------------------
-
-.. warning:: TODAS LAS ENTREGAS SE HACEN EN HORARIO DE CLASE
-
-  No tendremos entregas por fuera del horario de clase.
-
-  Luego del plazo 1 la nota será cero a menos que se entregue 
-  en los plazos siguientes. Luego del plazo 3 la nota quedará en 
-  cero.
-
-========= ================= 
-Unidad    semana inicial
-========= ================= 
-Unidad 1  semana 1 
-Unidad 2  semana 2 
-Unidad 3  semana 3 
-Unidad 4  semana 4 
-Unidad 5  semana 6 
-Unidad 6  semana 7 
-Unidad 7  semana 8 
-Final:    semana 10 
-========= ================= 
-
-=========== =================  ================= ==================
-Evaluación  Plazo 1 (sobre 5)  Plazo 2 (sobre 5) Plazo 3 (sobre 4)
-=========== =================  ================= ================== 
-* Unidad 1  semana 2 jul 24    semana 3          semana 4
-* Unidad 2  semana 3 jul 31    semana 4          semana 5  
-* Unidad 3  semana 4 ago 7     semana 5          semana 6
-* Unidad 4  semana 6 ago 21    semana 7          semana 8
-* Unidad 5  semana 7 ago 28    semana 8          semana 9
-* Unidad 6  semana 8 sep 4     semana 9          semana 10
-* Unidad 7  semana 10 sep 18   semana 11         semana 12
-* Final:    semana 15 oct 23   no hay            semana 16    
-=========== =================  ================= ================== 
-
-Carta Descriptiva
--------------------
-
-En `este <https://github.com/juanferfranco/SimulacionInteractivos/raw/main/docs/_static/carta2023-20.xlsm>`__ 
-enlace puedes consultar la carta descriptiva del curso.
-
-Metodología del curso
+Estructura y metodología del curso
 -----------------------------------
 
-La modalidad del curso es presencial. Se trabaja una metodología de ``aula invertida``. 
-En las clases presenciales, trabajarás de manera individual o en grupo para 
-resolver problemas. Yo estaré allí para apoyarte y orientarte en la solución 
-de los problemas y/o aclaración de las dudas que tengas. En el tiempo autónomo 
-debes realizar las lecturas propuestas.
+El curso está divido en 8 unidades:
+
+#. Unidad 1: aleatoriedad.
+#. Unidad 2: vectores.
+#. Unidad 3: fuerzas.
+#. Unidad 4: oscilaciones.
+#. Unidad 5: sistemas de partículas.
+#. Unidad 6: agentes autónomos.
+#. Unidad 7: bibliotecas de físicas.
+#. Unidad 8: proyecto final.
+
+La metodología del curso es de aula invertida. En este sitio web y en Internet encontrarás el material 
+necesario para que puedas realizar el curso. Debes utilizar el tiempo de trabajo independiente para 
+continuar con el trabajo de las unidades. El trabajo en aula lo emplearás para el mismo propósito 
+pero tendrás el acompañamiento del profesor.
 
 .. warning:: ¿Por qué este curso no es como una clase tradicional?
 
@@ -151,70 +120,51 @@ debes realizar las lecturas propuestas.
   La idea es que tu aprendizaje sea ACTIVO y no centrado en la enseñanza, entonces 
   aprenderás haciendo. El papel del docente es MEDIADOR no de transmisor del conocimiento.
 
-Evaluación
+.. _cronograma:
+
+Cronograma
 -----------
 
-* Ejercicios de la unidad 1 a la unidad 7: 10% cada una. Total 70%.
-* Proyecto Final: 30%
+#. Unidad 1: aleatoriedad. semanas 1 - 2.
+#. Unidad 2: vectores. semanas 3 - 4.
+#. Unidad 3: fuerzas. semanas 5 - 6.
+#. Unidad 4: oscilaciones. semanas 7 - 8.
+#. Unidad 5: sistemas de partículas. semanas 9 - 10.
+#. Unidad 6: agentes autónomos. semanas 11 - 12.
+#. Unidad 7: bibliotecas de físicas. semanas 13 - 14.
+#. Unidad 8: proyecto final. semanas 15 - 16.
 
-Dedicación
------------
 
-Este curso es de 2 créditos y se desarrolla en 16 semanas de clases. 
-Cada semana deberás dedicar 6 horas en total como mínimo.
+Evaluación sumativa
+---------------------
 
-.. warning:: EL TRABAJO AUTÓNOMO ES CRÍTICO
+En la evaluación siempre se tendrá en cuenta el PROCESO. Dicho proceso lo observaremos 
+en tu bitácora de aprendizaje. Allí deberás evidenciar tu proceso de investigación. 
+Para conseguir un 5 en la nota final de cada unidad, deberás acumular 5 puntos hasta el 
+cierre de la unidad. Cada semana hay puntos por ganar así:
 
-  El trabajo autónomo en este curso es crítico para que desarrolles las lecturas 
-  y hagas el trabajo de aula invertida para aprovechar al máxima el tiempo de clase.
+#. Unidad 1: bitácora (3 puntos) + aplicación (2 puntos). 12.5% 
+#. Unidad 2: bitácora (3 puntos) + aplicación (2 puntos). 12.5%
+#. Unidad 3: bitácora (3 puntos) + aplicación (2 puntos). 12.5%
+#. Unidad 4: bitácora (2 puntos) + aplicación (3 puntos). 12.5%
+#. Unidad 5: bitácora (2 puntos) + aplicación (3 puntos). 12.5%
+#. Unidad 6: bitácora (2 puntos) + aplicación (3 puntos). 12.5%
+#. Unidad 7: bitácora (2 puntos) + aplicación (3 puntos). 12.5%
+#. Unidad 8: bitácora (4 puntos) + presentación (1 puntos). 12.5%
 
-Bibliografía
--------------
+.. warning:: ¿Qué pasa si no cumplo con los plazos?
 
-* `Texto guía original <https://natureofcode.com/book>`__
-* `Texto guía en Unity/C# <https://natureofcodeunity.com>`__ (tiene algunos errores)
+   * Nota que siempre hay puntos por la bitácora. Si no trabajas cada semana 
+     ese punto se pierde. No hay puntos retroactivos. Debes recuperar en la 
+     semana las sesiones de trabajo.
+   * Si no entregas el producto de cierre de unidad debes buscar al profesor 
+     a más tardar dos días hábiles, pero deberás ajustarte a la disponibilidad 
+     del profesor. En esa reunión se establecerá la penalidad por el incumplimiento.
+     Dicha penalidad puede ir hasta perder todos los puntos del producto de cierre 
+     de unidad.
 
-Código de honor
------------------
 
-Para realizar el trabajo de cada unidad se espera que hagas lo siguiente:
 
-* NO BUSQUES la solución a los ejercicios y retos porque DAÑARÍAS tu
-  proceso de aprendizaje. Recuerda, se trata de seguir un camino
-  y aprender en el recorrido.
-* ¿Entonces qué hacer si no me funciona algo? Te propongo que
-  experimentes, crea hipótesis, experimenta de nuevo, observa y concluye. 
-  TENDRÁS que invertir TIEMPO.
-* NO OLVIDES, este curso se trata de PENSAR y experimentar NO de
-  BUSCAR soluciones en Internet.
 
-¿Qué herramientas necesitas?
--------------------------------
 
-* Puedes usar cualquier computador en el que puedas correr Unity versión 
-  LTS y un entorno de desarrollo como Visual Studio o Rider.
-* Necesitarás git y la terminal o un cliente de Git.
 
-¿Las evaluaciones son individuales o grupales?
--------------------------------------------------
-
-TODOS las evidencias de la evaluación del curso las debes presentar 
-de manera INDIVIDUAL, en tu propio repositorio.
-
-Para el trabajo final:
-
-* La solución del trabajo final la puedes hacer desde una hasta tres personas máximo.
-* En tu repositorio podrás compartir con tu equipo el código de la solución, pero tendrás 
-  que hacer tu propio video y tu propia README.md.
-* El portafolio claramente es un ejercicio individual.
-
-¿En dónde entrego las evaluaciones?
--------------------------------------------------
-
-Entrega las evaluaciones `aquí <https://classroom.github.com/a/ct9NuXzl>`__
-
-Tablero de curso
-------------------
-
-`Aquí <https://upbeduco-my.sharepoint.com/:wb:/g/personal/juanf_franco_upb_edu_co/EfeUpKddf1ZFmYz5wvZD5UIBCy5mvaTRl-v67NNbnl44fw?e=21sUxR>`__
-está el tablero del curso.
