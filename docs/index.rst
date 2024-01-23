@@ -13,7 +13,7 @@ Créditos y horas totales del curso: 2 créditos - 96 horas totales
 
 .. toctree::
    :maxdepth: 1
-   :caption: SECCIONES
+   :caption: Contenido
 
    ¿De qué se trata este curso? <_intro/intro>
    Unidad 1: Introducción <_unidad1/unidad1>

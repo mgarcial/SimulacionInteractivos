@@ -19,7 +19,7 @@ interactivas que integren contenidos digitales seleccionado, de manera argumenta
 (nivel autónomo), conceptos de matemáticas y física apropiados según los requisitos del 
 problema a solucionar. 
 
-Competencia a las que aporta el curso
+Competencias a las que aporta el curso
 ---------------------------------------
 
 La competencia a la que aporta el curso es del ciclo profesional del programa y pertenece 

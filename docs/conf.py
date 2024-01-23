@@ -79,7 +79,7 @@ pygments_style = 'sphinx'
 
 # html_logo = "_static/logo.png"
 html_title = "Simulación para Sistemas Interactivos"
-html_favicon = "_static/logo.png"
+html_favicon = "_static/logoFavicon.png"
 
 # html_theme = 'sphinx_rtd_theme'
 html_theme = 'sphinx_book_theme'
