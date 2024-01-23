@@ -1,4 +1,4 @@
-Simulación para Sistemas Interactivos 2023-20
+Simulación para Sistemas Interactivos 2024-10
 =====================================================
 
 Docente diseñador del curso: Juan Fernando Franco Higuita  

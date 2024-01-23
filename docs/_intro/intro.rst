@@ -252,8 +252,10 @@ siguientes aspectos:
 Recursos y actividades guía 
 -----------------------------
 
-Material en Internet, material elaborado por el docente e inteligencias 
-artificiales generativas.
+* Para la construcción de la aplicaciones usarás `p5.js <https://p5js.org/>`__ herramienta.
+* Para la exploración de conceptos usarás el texto `The Nature of Code 2 <https://nature-of-code-2nd-edition.netlify.app/>`__.
+* Puedes usar también el material que desees de Internet y especialmente inteligencias artificiales que 
+  generen código.
 
 Bitácora de trabajo  
 --------------------
