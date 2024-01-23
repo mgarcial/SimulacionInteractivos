@@ -283,6 +283,8 @@ p5.js
 
 * `WebGL - p5.js Tutorial <https://youtube.com/playlist?list=PLRqwX-V7Uu6bPhi8sS1hHJ77n3zRO9FR_&si=r5Qma-lD_5eo0AL6>`__.
 * `Topics of JavaScript/ES6-ES8 - p5.js Tutorial <https://youtube.com/playlist?list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr&si=8Pt5m8NXsYuNYnls>`__.
+* `Physical computing course <https://makeabilitylab.github.io/physcomp/>`__ de Makeability Lab.
+
 
 SDF 
 -----
