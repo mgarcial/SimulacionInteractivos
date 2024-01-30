@@ -286,6 +286,8 @@ p5.js
 * `Physical computing course <https://makeabilitylab.github.io/physcomp/>`__ de Makeability Lab.
 * Correr localmente (y depurar) aplicaciones usando el 
   `Live Server <https://github.com/processing/p5.js/wiki/Local-server#vs-code-live-server>`__ de visual studio code.
+* `Tutorial <https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/javascript/>`__ de 
+  depuración de aplicaciones con Microsoft Edge.
 
 SDF 
 -----
