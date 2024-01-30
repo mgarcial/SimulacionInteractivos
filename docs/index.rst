@@ -25,3 +25,5 @@ Créditos y horas totales del curso: 2 créditos - 96 horas totales
    Unidad 7: Biblioteca de físicas <_unidad7/unidad7>
    Unidad 8: Portafolio <_unidad8/unidad8>
    Recursos: Recursos Interesantes <_recursos/recursos>
+
+`Notas sobre el curso <https://github.com/juanferfranco/simulacionNotes>`__.
