@@ -315,10 +315,10 @@ Virtual production
 Physical computing simulation
 -------------------------------
 
-`Hyperreal wingsuit simulator <https://www.unrealengine.com/en-US/spotlights/meet-jump-the-world-s-first-hyperreal-wingsuit-simulator>`__.
-`Hyperreal simulator: JUMP <https://www.limitlessflight.com/>`__.
-`James Jensen, uno de los creadores de The void <https://www.linkedin.com/in/jimason3d/>`__.
-`The void <https://www.thevoid.com/>`__.
+* `Hyperreal wingsuit simulator <https://www.unrealengine.com/en-US/spotlights/meet-jump-the-world-s-first-hyperreal-wingsuit-simulator>`__.
+* `Hyperreal simulator: JUMP <https://www.limitlessflight.com/>`__.
+* `James Jensen, uno de los creadores de The void <https://www.linkedin.com/in/jimason3d/>`__.
+* `The void <https://www.thevoid.com/>`__.
 
 Ejemplos
 ------------
