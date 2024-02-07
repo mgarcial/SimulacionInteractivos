@@ -299,7 +299,26 @@ Live
 
 * `MAking of – Ed Sheeran Mathematics Tour Mark Cunniffe and Matt Jones <https://youtu.be/hEMQ9fZnbTU?si=ZOPKuTY9KO3OTwkM>`__.
 * `David Guetta Live on GrandMA2 | Lightshow <https://youtu.be/TrIYm1E4QIE?si=L0YmTLWI5kklg7zd>`__.
-* `BROADCAST & LIVE EVENTS with Unreal Engine <https://www.unrealengine.com/en-US/solutions/broadcast-live-events>`__
+* `BROADCAST & LIVE EVENTS with Unreal Engine <https://www.unrealengine.com/en-US/solutions/broadcast-live-events>`__.
+* `Moment-factory previz project <https://www.unrealengine.com/en-US/spotlights/moment-factory-collaborates-with-epic-on-live-event-previs-dmx-sample-project-available-now>`__.
+* `Unreal live link <https://docs.unrealengine.com/5.3/en-US/live-link-in-unreal-engine/>`__.
+* `Unreal nDisplay <https://docs.unrealengine.com/5.3/en-US/ndisplay-overview-for-unreal-engine/>`__.
+
+Virtual production
+--------------------
+
+* `Soluciones ópticas Stype <https://stype.tv/>`__
+* `Caso de studio: fox sports <https://youtu.be/rOe6Gw9TvJg?si=T4mqykHkziAoGHOb>`__
+* `Vizrt: real-time graphics and live production solutions for content creators <https://www.vizrt.com/vizrt/>`__.
+* `Erizos: real-time Broadcast Graphics Solutions <https://www.erizos.tv/we-are-erizos/>`__.
+
+Physical computing simulation
+-------------------------------
+
+`Hyperreal wingsuit simulator <https://www.unrealengine.com/en-US/spotlights/meet-jump-the-world-s-first-hyperreal-wingsuit-simulator>`__.
+`Hyperreal simulator: JUMP <https://www.limitlessflight.com/>`__.
+`James Jensen, uno de los creadores de The void <https://www.linkedin.com/in/jimason3d/>`__.
+`The void <https://www.thevoid.com/>`__.
 
 Ejemplos
 ------------
