@@ -43,7 +43,7 @@ Trayecto de actividades
 ------------------------
 
 * Realiza la lectura de la unidad 2 del texto guía: fuerzas.
-* Realiza la lectura de la unidad 2. Si no es un error, debes hacer 
+* Realiza la lectura de la unidad 2. Si, no es un error, debes hacer 
   la lectura.
 * Recuerdas de la unidad anterior cómo hacías para que la criatura 
   se moviera?
