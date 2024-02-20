@@ -1,50 +1,144 @@
 Unidad 3. Fuerzas
 =======================================
-..
-  Evaluación
-  -----------
 
-  Vas a introducir en la simulación de la unidad anterior FUERZAS, es decir, ahora 
-  harás que en tu simulación ocurra lo siguiente:
+Requisitos de la aplicación interactiva
+--------------------------------------------
 
-  * Tus criaturas van a interactuar con elementos del ecosistema como COMIDA, depredadores, plantas, etc.
-  * Simula fuerzas de ATRACCIÓN y REPULSIÓN entre tus criaturas y el mundo en el que viven.
-  * Vas a buscar 3 tipos de fuerzas y las vas a incorporar en la simulación, pero las 
-    diseñarás de tal manera que estas fuerzas sean coherentes con una NARRATIVA, tu la defines, 
-    en tu ecosistema.
-  * Tu aplicación debe ser interactiva con el teclado y el mouse. Debes diseñar cómo vas 
-    a incorporar estos elementos a la NARRATIVA de tu simulación. Además del mouse y el teclado 
-    puedes utilizar, OPCIONALMENTE, cualquier otro mecanismo de entrada que desees. Piensa 
-    en tu portafolio y en aquellas cosas que quieres mostrarle al mundo que puedes hacer. Por ejemplo, 
-    podrías incluir información de sensores, visión artificial, audio, etc.
+Vas a introducir en la simulación de la unidad anterior FUERZAS, es decir, ahora 
+harás que en tu simulación ocurra lo siguiente:
 
-  Trayecto de actividades
-  ------------------------
+.. warning:: LEE PRIMERO EL CAPÍTULO 2
 
-  * MIRA por favor el plazo de entrega de esta unidad. ¿Lo tienes claro?
-  * Planea cómo vas a invertir el tiempo basado en el plazo.
-  * Lo primero que harás es leer con atención la evaluación propuesta.
-  * Revisa con detenimiento el `capítulo 2 <https://natureofcodeunity.com/chaptertwo.html>`__ del 
-    texto guía.
-  * En la sección ``2.6 Gravity on Earth and Modeling a Force`` el autor del texto guía plantea 
-    el siguiente procedimiento para incorporar fuerzas en la simulación:
+    Pasos:
 
-    * Entiende el concepto detrás de una fuerza.
-    * Descompone la fórmula de la fuerza en dos partes:
-      
-      * ¿Cómo calcularás la dirección de la fuerza?
-      * ¿Cómo calcularás la magnitud de la fuerza?
-    
-    * Usa la función AddForce() en el objeto que deseas que se mueva.
+    1. Lee la unidad 2.
+    2. Lee la unidad 2.
+    3. Lee la unidad 2.
 
-  * En la narrativa del texto plantean como ejemplo para aplicar este procedimiento dos fuerzas: 
-    fricción (Air and Fluid Resistance), Gravitational Attraction. Las secciones 2.8 a 2.10 analizan 
-    las fuerzas con la lógica que plantea el texto. Esto te puede servir de referencia para resolver 
-    el problema.
+  (No es un error lo anterior, es que toca leer la unidad para 
+  poder hacer la cosa bien.)
 
-  Recursos 
-  ----------------------
+* Tus criaturas van a interactuar con elementos del ecosistema como COMIDA, 
+  depredadores, plantas, etc.
+* Simula fuerzas de ATRACCIÓN y REPULSIÓN entre tus criaturas y el mundo en el que viven.
+* Vas a buscar ``3 tipos de fuerzas`` y las vas a ``MODELAR`` para 
+  incorporarlas en la simulación, pero esas fuerzas deberán responder a una 
+  ``NARRATIVA``, tu la defines, es tu ecosistema.
 
-  * `Capítulo 2 <https://natureofcodeunity.com/chaptertwo.html>`__ del texto guía.
-  * `Videos 17 al 22 <https://youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM>`__ 
-    del curso the nature of code 2.
+  .. warning:: TENEMOS UN NUEVO REQUISITO
+
+      Desde ahora nos acompañará un nuevo requisito en la aplicación 
+      interactiva: LA NARRATIVA. No lo olvides.
+* Incluye en tu simulación interacción de las criaturas con líquidos donde 
+  experimente fuerzas de resistencia.
+* Incluye una extraña colonia de criaturas que se comporten según las ideas 
+  de un n-Body problem.
+* Debes adicionar interactividad a tu aplicación. Puede ser mediante teclado, 
+  mouse, música, el micrófono, video, sensor o cualquier otro dispositivo 
+  de entrada.
+* Debes desarrollar tu aplicación bajo control de versión. Usa el directorio 
+  correspondiente de cada unidad.
+
+Trayecto de actividades
+------------------------
+
+* Realiza la lectura de la unidad 2 del texto guía: fuerzas.
+* Realiza la lectura de la unidad 2. Si no es un error, debes hacer 
+  la lectura.
+* Recuerdas de la unidad anterior cómo hacías para que la criatura 
+  se moviera?
+
+  .. code-block:: javascript
+
+    let mover;
+
+    function setup() {
+      createCanvas(640, 240);
+      mover = new Mover();
+    }
+
+    function draw() {
+      background(255);
+      mover.show();
+      mover.update();
+      mover.checkEdges();
+    }
+
+    ...
+    update() {
+      this.velocity.add(this.acceleration);
+      this.velocity.limit(this.topSpeed);
+      this.position.add(this.velocity);
+    }        
+  
+  En la unidad anterior tu definías la aceleración mediante 
+  algún algoritmo. Ahora la vas a calcular. ¿Qué tiene 
+  que ver esto con las leyes de movimiento de Newton?
+
+* Ahora supón que estás aplicando dos fuerzas a tu criatura:
+
+  .. code-block:: javascript
+
+    mover.applyForce(wind);
+    mover.applyForce(gravity);
+    ...
+    applyForce(force) {
+      this.acceleration = force;
+    }
+
+    ...
+    this.velocity.add(this.acceleration);
+
+  ¿Qué problema le ves a esto? ¿Por qué la fuerza 
+  debe ser acumulativa?
+
+* En el siguiente código:
+
+  .. code-block:: javascript
+
+    update() {
+      this.velocity.add(this.acceleration);
+      this.position.add(this.velocity);
+      this.acceleration.mult(0);
+    }
+
+  * ¿Por qué es necesario multiplicar la aceleración por 
+    cero en cada frame? 
+  * ¿Por qué se multiplica por cero 
+    justo al final de update()?
+* ¿Cómo tener en cuenta la masa de la criatura?
+* En el siguiente código:
+
+  .. code-block:: javascript
+
+    applyForce(force) {
+      force.div(mass);
+      this.acceleration.add(force);
+    }
+
+  * ¿force se está pasando por VALOR o por REFERENCIA?
+* Cuando se modela una fuerza ¿Qué pasos hay que seguir para 
+  poder incorporar dicha fuerza a la simulación?
+* En el siguiente código:
+
+  .. code-block:: javascript
+
+    let friction = this.velocity.copy();
+    let friction = this.velocity;
+
+  * ¿Cuál es la diferencia entre las 
+    dos líneas?
+  * ¿Qué podría salir mal con ``let friction = this.velocity;``
+  * De nuevo, toca repasar. ¿Cuál es la diferencia entre 
+    copiar por VALOR y por REFERENCIA?
+  * En el ejemplo cuándo es por VALOR y cuándo por REFERENCIA.
+
+
+* Trabaja en tu aplicación interactiva.
+
+Recursos 
+----------------------
+
+* `Capítulo 2 <https://natureofcode.com/forces/>`__ del texto guía.
+* `Videos 17 al 22 <https://youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM>`__ 
+  del curso the nature of code 2.
